@@ -45,7 +45,7 @@ class Corpus:
 
         print('Getting src docs')
         for doc in self.src_doc_generator():
-            content = re.sub(NOALPHA, ' ', doc[2].strip().lower())
+            content = re.sub(NOALPHA, ' ', doc) # Do this in the corpus generator?
             docs.append(content)
             doctokens.append([token for token in nltk.word_tokenize(content) if token not in stopwords])
             doc_n += 1

@@ -1,4 +1,4 @@
-import sqlite3
+import sqlite3, sys
 
 class Database:
 
@@ -12,10 +12,17 @@ class Database:
     def __init__(self,db_file,db_schema):
         self.db_file = db_file
         self.db_schema = db_schema
-        self.conn = sqlite3.connect(self.db_file)
+        try:
+            self.conn = sqlite3.connect(self.db_file)
+        except sqlite3.Error as e:
+            print("Can't connect to database:", e.args[0])
+            sys.exit(0)
 
     def __del__(self):
-        self.conn.close()
+        try:
+            self.conn.close()
+        except sqlite3.Error as e:
+            print("Can't close database:", e.args[0])
 
     def __enter__(self):
         self.cur = self.conn.cursor()
@@ -26,7 +33,7 @@ class Database:
         self.cur.close()
 
     def expand_fields(self,field_prefix,field_count,field_type=None):
-        return ['{0}{1} {2}'.format(field_prefix, i, field_type).lower().strip() for i in range(field_count)]
+        return ['{}{} {}'.format(field_prefix, i, field_type).lower().strip() for i in range(field_count)]
 
     '''
     def expand_fields_in_schema(self,field_prefix,field_count):
@@ -45,18 +52,17 @@ class Database:
     # statement defined by the above enter and exit methods.
 
     def create_table(self,table):
-        self.cur.execute('DROP TABLE IF EXISTS {0}'.format(table))
-        self.cur.execute('CREATE TABLE {0} ({1})'.format(table, ','.join(self.db_schema[table])))
+        self.cur.execute('DROP TABLE IF EXISTS {}'.format(table))
+        self.cur.execute('CREATE TABLE {} ({})'.format(table, ','.join(self.db_schema[table])))
 
     def insert_values(self,table,values):
         self.create_table(table)
         places = ','.join(['?' for _ in range(len(self.db_schema[table]))])
-        sql = 'INSERT INTO {0} VALUES ({1})'.format(table,places)
+        sql = 'INSERT INTO {} VALUES ({})'.format(table,places)
         for value in values:
             self.cur.execute(sql,value)
 
     def select_values(self,table):
         fields = [field.split()[0] for field in self.db_schema[table]]
-        for r in self.cur.execute('SELECT {1} FROM {0}'.format(','.join(fields), table)):
+        for r in self.cur.execute('SELECT {} FROM {}'.format(','.join(fields), table)):
             yield r
-
