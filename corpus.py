@@ -78,8 +78,11 @@ class Corpus:
 
     def update_word_freqs(self):
         with self.dbi as db:
+            rows = []
+            print("SELECT sum(word_count) as 'word_freq', word_id FROM docword GROUP BY word_id")
             for r in db.cur.execute("SELECT sum(word_count) as 'word_freq', word_id FROM docword GROUP BY word_id"):
-                db.cur.execute("UPDATE word SET word_freq = ? WHERE word_id = ?",r)
+                rows.append(r)
+            db.cur.executemany("UPDATE word SET word_freq = ? WHERE word_id = ?",rows)
 
     def pull_gensim_corpus(self):
         with self.dbi as db:

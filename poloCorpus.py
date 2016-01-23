@@ -1,5 +1,10 @@
 from corpus import Corpus
 
+'''
+This corpus subclass expects to find a comma-delimitted corpus file
+with three columns -- a unique doc_id, a doc_tag, and doc_content 
+'''
+
 class PoloCorpus(Corpus):
     
     def __init__(self,src_file,dst_db,dictfile=None):
