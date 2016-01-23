@@ -1,0 +1,36 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='9.303750250798087' totalTokens='16770'>
+	<word rank='1'>anne</word>
+	<word rank='2'>captain</word>
+	<word rank='3'>mrs</word>
+	<word rank='4'>wentworth</word>
+	<word rank='5'>charles</word>
+	<word rank='6'>time</word>
+	<word rank='7'>great</word>
+	<word rank='8'>mary</word>
+	<word rank='9'>musgrove</word>
+  </topic>
+  <topic id='1' alpha='4.360511155129725' totalTokens='8762'>
+	<word rank='1'>elliot</word>
+	<word rank='2'>mr</word>
+	<word rank='3'>lady</word>
+	<word rank='4'>sir</word>
+	<word rank='5'>man</word>
+	<word rank='6'>russell</word>
+	<word rank='7'>walter</word>
+	<word rank='8'>elizabeth</word>
+	<word rank='9'>friend</word>
+  </topic>
+  <topic id='2' alpha='1.1263639337096678' totalTokens='2541'>
+	<word rank='1'>side</word>
+	<word rank='2'>profession</word>
+	<word rank='3'>town</word>
+	<word rank='4'>future</word>
+	<word rank='5'>men</word>
+	<word rank='6'>power</word>
+	<word rank='7'>air</word>
+	<word rank='8'>confidence</word>
+	<word rank='9'>spring</word>
+  </topic>
+</topicModel>
