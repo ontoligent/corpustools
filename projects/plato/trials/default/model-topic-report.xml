@@ -1,0 +1,443 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='0.22756762141467632' totalTokens='931'>
+	<word rank='1'>desires</word>
+	<word rank='2'>tyrant</word>
+	<word rank='3'>change</word>
+	<word rank='4'>imagine</word>
+	<word rank='5'>miserable</word>
+	<word rank='6'>oligarchical</word>
+	<word rank='7'>tyrannical</word>
+	<word rank='8'>pleasures</word>
+	<word rank='9'>sense</word>
+  </topic>
+  <topic id='1' alpha='0.10724616919209573' totalTokens='717'>
+	<word rank='1'>son</word>
+	<word rank='2'>father</word>
+	<word rank='3'>god</word>
+	<word rank='4'>sons</word>
+	<word rank='5'>mother</word>
+	<word rank='6'>parents</word>
+	<word rank='7'>brought</word>
+	<word rank='8'>told</word>
+	<word rank='9'>repeated</word>
+  </topic>
+  <topic id='2' alpha='0.47116877787331923' totalTokens='1901'>
+	<word rank='1'>good</word>
+	<word rank='2'>man</word>
+	<word rank='3'>evil</word>
+	<word rank='4'>things</word>
+	<word rank='5'>wise</word>
+	<word rank='6'>bad</word>
+	<word rank='7'>god</word>
+	<word rank='8'>word</word>
+	<word rank='9'>makes</word>
+  </topic>
+  <topic id='3' alpha='0.08178700941489957' totalTokens='447'>
+	<word rank='1'>shadows</word>
+	<word rank='2'>images</word>
+	<word rank='3'>objects</word>
+	<word rank='4'>blind</word>
+	<word rank='5'>visible</word>
+	<word rank='6'>intelligence</word>
+	<word rank='7'>proportion</word>
+	<word rank='8'>region</word>
+	<word rank='9'>clearness</word>
+  </topic>
+  <topic id='4' alpha='0.1444745570706918' totalTokens='858'>
+	<word rank='1'>homer</word>
+	<word rank='2'>words</word>
+	<word rank='3'>imitation</word>
+	<word rank='4'>poetry</word>
+	<word rank='5'>style</word>
+	<word rank='6'>poet</word>
+	<word rank='7'>imitate</word>
+	<word rank='8'>kind</word>
+	<word rank='9'>rhythm</word>
+  </topic>
+  <topic id='5' alpha='0.15526758371679417' totalTokens='734'>
+	<word rank='1'>children</word>
+	<word rank='2'>common</word>
+	<word rank='3'>women</word>
+	<word rank='4'>slaves</word>
+	<word rank='5'>call</word>
+	<word rank='6'>country</word>
+	<word rank='7'>guardians</word>
+	<word rank='8'>wives</word>
+	<word rank='9'>taking</word>
+  </topic>
+  <topic id='6' alpha='0.09159151088546964' totalTokens='466'>
+	<word rank='1'>measure</word>
+	<word rank='2'>feeling</word>
+	<word rank='3'>strange</word>
+	<word rank='4'>error</word>
+	<word rank='5'>lion</word>
+	<word rank='6'>step</word>
+	<word rank='7'>finding</word>
+	<word rank='8'>reflect</word>
+	<word rank='9'>arts</word>
+  </topic>
+  <topic id='7' alpha='0.16790936643107887' totalTokens='823'>
+	<word rank='1'>interest</word>
+	<word rank='2'>stronger</word>
+	<word rank='3'>ruler</word>
+	<word rank='4'>science</word>
+	<word rank='5'>subjects</word>
+	<word rank='6'>object</word>
+	<word rank='7'>sciences</word>
+	<word rank='8'>speaking</word>
+	<word rank='9'>rulers</word>
+  </topic>
+  <topic id='8' alpha='0.2845825796346095' totalTokens='1563'>
+	<word rank='1'>justice</word>
+	<word rank='2'>injustice</word>
+	<word rank='3'>unjust</word>
+	<word rank='4'>men</word>
+	<word rank='5'>gods</word>
+	<word rank='6'>thrasymachus</word>
+	<word rank='7'>view</word>
+	<word rank='8'>glaucon</word>
+	<word rank='9'>power</word>
+  </topic>
+  <topic id='9' alpha='0.1223046142837405' totalTokens='574'>
+	<word rank='1'>friends</word>
+	<word rank='2'>drink</word>
+	<word rank='3'>enemies</word>
+	<word rank='4'>desire</word>
+	<word rank='5'>food</word>
+	<word rank='6'>harm</word>
+	<word rank='7'>term</word>
+	<word rank='8'>simple</word>
+	<word rank='9'>thirst</word>
+  </topic>
+  <topic id='10' alpha='0.49081835691096765' totalTokens='1832'>
+	<word rank='1'>make</word>
+	<word rank='2'>replied</word>
+	<word rank='3'>friend</word>
+	<word rank='4'>answer</word>
+	<word rank='5'>sort</word>
+	<word rank='6'>suppose</word>
+	<word rank='7'>case</word>
+	<word rank='8'>speaking</word>
+	<word rank='9'>speak</word>
+  </topic>
+  <topic id='11' alpha='0.15965552738627614' totalTokens='746'>
+	<word rank='1'>spirit</word>
+	<word rank='2'>reason</word>
+	<word rank='3'>man</word>
+	<word rank='4'>element</word>
+	<word rank='5'>sorrow</word>
+	<word rank='6'>passion</word>
+	<word rank='7'>angry</word>
+	<word rank='8'>noble</word>
+	<word rank='9'>observe</word>
+  </topic>
+  <topic id='12' alpha='0.11282998985378415' totalTokens='692'>
+	<word rank='1'>socrates</word>
+	<word rank='2'>glaucon</word>
+	<word rank='3'>adeimantus</word>
+	<word rank='4'>polemarchus</word>
+	<word rank='5'>argument</word>
+	<word rank='6'>cephalus</word>
+	<word rank='7'>thrasymachus</word>
+	<word rank='8'>made</word>
+	<word rank='9'>discussion</word>
+  </topic>
+  <topic id='13' alpha='0.6284777520490714' totalTokens='2682'>
+	<word rank='1'>state</word>
+	<word rank='2'>guardians</word>
+	<word rank='3'>citizens</word>
+	<word rank='4'>made</word>
+	<word rank='5'>rulers</word>
+	<word rank='6'>states</word>
+	<word rank='7'>individual</word>
+	<word rank='8'>government</word>
+	<word rank='9'>order</word>
+  </topic>
+  <topic id='14' alpha='0.07732967627174893' totalTokens='543'>
+	<word rank='1'>gold</word>
+	<word rank='2'>war</word>
+	<word rank='3'>houses</word>
+	<word rank='4'>silver</word>
+	<word rank='5'>hellenes</word>
+	<word rank='6'>husbandman</word>
+	<word rank='7'>iron</word>
+	<word rank='8'>barbarians</word>
+	<word rank='9'>enemies</word>
+  </topic>
+  <topic id='15' alpha='0.6874658694582734' totalTokens='2614'>
+	<word rank='1'>true</word>
+	<word rank='2'>soul</word>
+	<word rank='3'>nature</word>
+	<word rank='4'>replied</word>
+	<word rank='5'>principle</word>
+	<word rank='6'>reason</word>
+	<word rank='7'>part</word>
+	<word rank='8'>natural</word>
+	<word rank='9'>order</word>
+  </topic>
+  <topic id='16' alpha='0.13780321917719698' totalTokens='624'>
+	<word rank='1'>rich</word>
+	<word rank='2'>honour</word>
+	<word rank='3'>poor</word>
+	<word rank='4'>place</word>
+	<word rank='5'>enemy</word>
+	<word rank='6'>dead</word>
+	<word rank='7'>army</word>
+	<word rank='8'>battle</word>
+	<word rank='9'>honoured</word>
+  </topic>
+  <topic id='17' alpha='0.19350322098784217' totalTokens='887'>
+	<word rank='1'>pleasure</word>
+	<word rank='2'>pleasures</word>
+	<word rank='3'>pain</word>
+	<word rank='4'>lover</word>
+	<word rank='5'>love</word>
+	<word rank='6'>gain</word>
+	<word rank='7'>sort</word>
+	<word rank='8'>lovers</word>
+	<word rank='9'>wisdom</word>
+  </topic>
+  <topic id='18' alpha='0.027154108346276327' totalTokens='737'>
+	<word rank='1'>plato</word>
+	<word rank='2'>republic</word>
+	<word rank='3'>book</word>
+	<word rank='4'>world</word>
+	<word rank='5'>ideas</word>
+	<word rank='6'>idea</word>
+	<word rank='7'>philosophy</word>
+	<word rank='8'>books</word>
+	<word rank='9'>work</word>
+  </topic>
+  <topic id='19' alpha='0.20270693433947157' totalTokens='828'>
+	<word rank='1'>question</word>
+	<word rank='2'>fear</word>
+	<word rank='3'>argument</word>
+	<word rank='4'>words</word>
+	<word rank='5'>difficulty</word>
+	<word rank='6'>war</word>
+	<word rank='7'>proceed</word>
+	<word rank='8'>admit</word>
+	<word rank='9'>acknowledge</word>
+  </topic>
+  <topic id='20' alpha='0.2763784826871306' totalTokens='1192'>
+	<word rank='1'>truth</word>
+	<word rank='2'>knowledge</word>
+	<word rank='3'>mind</word>
+	<word rank='4'>degree</word>
+	<word rank='5'>thought</word>
+	<word rank='6'>manner</word>
+	<word rank='7'>nature</word>
+	<word rank='8'>matter</word>
+	<word rank='9'>highest</word>
+  </topic>
+  <topic id='21' alpha='0.3663417449604868' totalTokens='1500'>
+	<word rank='1'>men</word>
+	<word rank='2'>education</word>
+	<word rank='3'>city</word>
+	<word rank='4'>young</word>
+	<word rank='5'>give</word>
+	<word rank='6'>natures</word>
+	<word rank='7'>put</word>
+	<word rank='8'>people</word>
+	<word rank='9'>law</word>
+  </topic>
+  <topic id='22' alpha='0.14477587169952508' totalTokens='653'>
+	<word rank='1'>virtue</word>
+	<word rank='2'>making</word>
+	<word rank='3'>vice</word>
+	<word rank='4'>bear</word>
+	<word rank='5'>result</word>
+	<word rank='6'>call</word>
+	<word rank='7'>makes</word>
+	<word rank='8'>reasons</word>
+	<word rank='9'>grow</word>
+  </topic>
+  <topic id='23' alpha='0.25868974160279634' totalTokens='1375'>
+	<word rank='1'>life</word>
+	<word rank='2'>men</word>
+	<word rank='3'>time</word>
+	<word rank='4'>age</word>
+	<word rank='5'>private</word>
+	<word rank='6'>man</word>
+	<word rank='7'>public</word>
+	<word rank='8'>human</word>
+	<word rank='9'>years</word>
+  </topic>
+  <topic id='24' alpha='0.15543903897702427' totalTokens='735'>
+	<word rank='1'>things</word>
+	<word rank='2'>beauty</word>
+	<word rank='3'>absolute</word>
+	<word rank='4'>beautiful</word>
+	<word rank='5'>idea</word>
+	<word rank='6'>place</word>
+	<word rank='7'>world</word>
+	<word rank='8'>present</word>
+	<word rank='9'>forms</word>
+  </topic>
+  <topic id='25' alpha='0.2956633430717709' totalTokens='1249'>
+	<word rank='1'>end</word>
+	<word rank='2'>true</word>
+	<word rank='3'>philosophy</word>
+	<word rank='4'>number</word>
+	<word rank='5'>great</word>
+	<word rank='6'>mind</word>
+	<word rank='7'>man</word>
+	<word rank='8'>philosopher</word>
+	<word rank='9'>study</word>
+  </topic>
+  <topic id='26' alpha='0.04076879783283407' totalTokens='466'>
+	<word rank='1'>earth</word>
+	<word rank='2'>heaven</word>
+	<word rank='3'>fourth</word>
+	<word rank='4'>move</word>
+	<word rank='5'>side</word>
+	<word rank='6'>hand</word>
+	<word rank='7'>eighth</word>
+	<word rank='8'>whorl</word>
+	<word rank='9'>spindle</word>
+  </topic>
+  <topic id='27' alpha='0.05632012057103516' totalTokens='381'>
+	<word rank='1'>philosophers</word>
+	<word rank='2'>pilot</word>
+	<word rank='3'>captain</word>
+	<word rank='4'>kings</word>
+	<word rank='5'>sailors</word>
+	<word rank='6'>ship</word>
+	<word rank='7'>sea</word>
+	<word rank='8'>strain</word>
+	<word rank='9'>sailor</word>
+  </topic>
+  <topic id='28' alpha='0.14515700428459488' totalTokens='845'>
+	<word rank='1'>light</word>
+	<word rank='2'>sight</word>
+	<word rank='3'>eyes</word>
+	<word rank='4'>sun</word>
+	<word rank='5'>world</word>
+	<word rank='6'>day</word>
+	<word rank='7'>turned</word>
+	<word rank='8'>ridiculous</word>
+	<word rank='9'>turn</word>
+  </topic>
+  <topic id='29' alpha='0.06100231778749365' totalTokens='409'>
+	<word rank='1'>freedom</word>
+	<word rank='2'>asclepius</word>
+	<word rank='3'>wine</word>
+	<word rank='4'>drinking</word>
+	<word rank='5'>servants</word>
+	<word rank='6'>heads</word>
+	<word rank='7'>level</word>
+	<word rank='8'>ordinary</word>
+	<word rank='9'>commonly</word>
+  </topic>
+  <topic id='30' alpha='0.2045391801109211' totalTokens='875'>
+	<word rank='1'>opinion</word>
+	<word rank='2'>knowledge</word>
+	<word rank='3'>subject</word>
+	<word rank='4'>matter</word>
+	<word rank='5'>kind</word>
+	<word rank='6'>ignorance</word>
+	<word rank='7'>pure</word>
+	<word rank='8'>call</word>
+	<word rank='9'>faculty</word>
+  </topic>
+  <topic id='31' alpha='0.03662708762239453' totalTokens='448'>
+	<word rank='1'>soul</word>
+	<word rank='2'>souls</word>
+	<word rank='3'>finger</word>
+	<word rank='4'>choice</word>
+	<word rank='5'>lives</word>
+	<word rank='6'>lot</word>
+	<word rank='7'>earth</word>
+	<word rank='8'>journey</word>
+	<word rank='9'>world</word>
+  </topic>
+  <topic id='32' alpha='0.13254856313589966' totalTokens='699'>
+	<word rank='1'>art</word>
+	<word rank='2'>gods</word>
+	<word rank='3'>medicine</word>
+	<word rank='4'>arts</word>
+	<word rank='5'>similar</word>
+	<word rank='6'>zeus</word>
+	<word rank='7'>pay</word>
+	<word rank='8'>payment</word>
+	<word rank='9'>heroes</word>
+  </topic>
+  <topic id='33' alpha='0.12272593625033315' totalTokens='648'>
+	<word rank='1'>body</word>
+	<word rank='2'>fair</word>
+	<word rank='3'>health</word>
+	<word rank='4'>disease</word>
+	<word rank='5'>soul</word>
+	<word rank='6'>bodies</word>
+	<word rank='7'>habits</word>
+	<word rank='8'>judges</word>
+	<word rank='9'>corruption</word>
+  </topic>
+  <topic id='34' alpha='0.2344594477082006' totalTokens='1024'>
+	<word rank='1'>man</word>
+	<word rank='2'>money</word>
+	<word rank='3'>wealth</word>
+	<word rank='4'>class</word>
+	<word rank='5'>advantage</word>
+	<word rank='6'>property</word>
+	<word rank='7'>dear</word>
+	<word rank='8'>honour</word>
+	<word rank='9'>force</word>
+  </topic>
+  <topic id='35' alpha='0.1787039714390853' totalTokens='877'>
+	<word rank='1'>hear</word>
+	<word rank='2'>lie</word>
+	<word rank='3'>persons</word>
+	<word rank='4'>necessity</word>
+	<word rank='5'>heard</word>
+	<word rank='6'>imagine</word>
+	<word rank='7'>told</word>
+	<word rank='8'>rest</word>
+	<word rank='9'>words</word>
+  </topic>
+  <topic id='36' alpha='0.07328656040060602' totalTokens='413'>
+	<word rank='1'>time</word>
+	<word rank='2'>left</word>
+	<word rank='3'>motion</word>
+	<word rank='4'>mode</word>
+	<word rank='5'>single</word>
+	<word rank='6'>rest</word>
+	<word rank='7'>person</word>
+	<word rank='8'>description</word>
+	<word rank='9'>long</word>
+  </topic>
+  <topic id='37' alpha='0.1586234177869303' totalTokens='751'>
+	<word rank='1'>great</word>
+	<word rank='2'>place</word>
+	<word rank='3'>small</word>
+	<word rank='4'>enquiry</word>
+	<word rank='5'>found</word>
+	<word rank='6'>educated</word>
+	<word rank='7'>inferior</word>
+	<word rank='8'>purpose</word>
+	<word rank='9'>larger</word>
+  </topic>
+  <topic id='38' alpha='0.2183256894007213' totalTokens='931'>
+	<word rank='1'>manner</word>
+	<word rank='2'>music</word>
+	<word rank='3'>gymnastic</word>
+	<word rank='4'>care</word>
+	<word rank='5'>perfect</word>
+	<word rank='6'>guardian</word>
+	<word rank='7'>begin</word>
+	<word rank='8'>long</word>
+	<word rank='9'>full</word>
+  </topic>
+  <topic id='39' alpha='0.10166869420520608' totalTokens='485'>
+	<word rank='1'>maker</word>
+	<word rank='2'>real</word>
+	<word rank='3'>bed</word>
+	<word rank='4'>true</word>
+	<word rank='5'>painter</word>
+	<word rank='6'>physician</word>
+	<word rank='7'>existence</word>
+	<word rank='8'>view</word>
+	<word rank='9'>mistake</word>
+  </topic>
+</topicModel>

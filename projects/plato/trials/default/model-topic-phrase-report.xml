@@ -1,0 +1,843 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.22756762141467632" totalTokens="931" titles="desires, tyrant, change, imagine, miserable, oligarchical, tyrannical, pleasures, sense, ">
+	<word weight="0.05800214822771214" count="54">desires</word>
+	<word weight="0.05263157894736842" count="49">tyrant</word>
+	<word weight="0.0397422126745435" count="37">change</word>
+	<word weight="0.0322234156820623" count="30">imagine</word>
+	<word weight="0.022556390977443608" count="21">miserable</word>
+	<word weight="0.02040816326530612" count="19">oligarchical</word>
+	<word weight="0.02040816326530612" count="19">tyrannical</word>
+	<word weight="0.01933404940923738" count="18">pleasures</word>
+	<word weight="0.018259935553168637" count="17">sense</word>
+	<phrase weight="0.03529411764705882" count="3">change change</phrase>
+	<phrase weight="0.023529411764705882" count="2">imagine imagine</phrase>
+	<phrase weight="0.023529411764705882" count="2">pleasures pains</phrase>
+	<phrase weight="0.011764705882352941" count="1">desires opinions</phrase>
+	<phrase weight="0.011764705882352941" count="1">accordance tastes</phrase>
+	<phrase weight="0.011764705882352941" count="1">live miserable</phrase>
+	<phrase weight="0.011764705882352941" count="1">pleasures desires pains</phrase>
+	<phrase weight="0.011764705882352941" count="1">arcadian temple lycaean</phrase>
+	<phrase weight="0.011764705882352941" count="1">forcibly general habit</phrase>
+	<phrase weight="0.011764705882352941" count="1">controlling pleasures desires</phrase>
+  </topic>
+  <topic id="1" alpha="0.10724616919209573" totalTokens="717" titles="son, father, god, sons, mother, parents, brought, told, repeated, ">
+	<word weight="0.07252440725244072" count="52">son</word>
+	<word weight="0.058577405857740586" count="42">father</word>
+	<word weight="0.03347280334728033" count="24">god</word>
+	<word weight="0.02510460251046025" count="18">sons</word>
+	<word weight="0.023709902370990237" count="17">mother</word>
+	<word weight="0.022315202231520222" count="16">parents</word>
+	<word weight="0.019525801952580194" count="14">brought</word>
+	<word weight="0.015341701534170154" count="11">told</word>
+	<word weight="0.012552301255230125" count="9">repeated</word>
+	<phrase weight="0.03571428571428571" count="3">father mother</phrase>
+	<phrase weight="0.023809523809523808" count="2">offering sacrifice</phrase>
+	<phrase weight="0.023809523809523808" count="2">son goddess</phrase>
+	<phrase weight="0.023809523809523808" count="2">son ariston</phrase>
+	<phrase weight="0.011904761904761904" count="1">sacrifices prayers</phrase>
+	<phrase weight="0.011904761904761904" count="1">sees sudden foundering</phrase>
+	<phrase weight="0.011904761904761904" count="1">hand reformation</phrase>
+	<phrase weight="0.011904761904761904" count="1">officer brought</phrase>
+	<phrase weight="0.011904761904761904" count="1">house hades</phrase>
+	<phrase weight="0.011904761904761904" count="1">companions son protect emancipated</phrase>
+  </topic>
+  <topic id="2" alpha="0.47116877787331923" totalTokens="1901" titles="good, man, evil, things, wise, bad, god, word, makes, ">
+	<word weight="0.21462388216728037" count="408">good</word>
+	<word weight="0.10152551288795371" count="193">man</word>
+	<word weight="0.06891109942135717" count="131">evil</word>
+	<word weight="0.0483955812730142" count="92">things</word>
+	<word weight="0.021567596002104155" count="41">wise</word>
+	<word weight="0.021041557075223566" count="40">bad</word>
+	<word weight="0.01788532351394003" count="34">god</word>
+	<word weight="0.015255128879537085" count="29">word</word>
+	<word weight="0.013150973172014729" count="25">makes</word>
+	<phrase weight="0.06818181818181818" count="12">good evil</phrase>
+	<phrase weight="0.05113636363636364" count="9">good man</phrase>
+	<phrase weight="0.03977272727272727" count="7">good bad</phrase>
+	<phrase weight="0.028409090909090908" count="5">good good</phrase>
+	<phrase weight="0.017045454545454544" count="3">wise good</phrase>
+	<phrase weight="0.011363636363636364" count="2">good counsel</phrase>
+	<phrase weight="0.011363636363636364" count="2">good wise</phrase>
+	<phrase weight="0.011363636363636364" count="2">things ready</phrase>
+	<phrase weight="0.011363636363636364" count="2">good things</phrase>
+	<phrase weight="0.011363636363636364" count="2">possessor makes good evil</phrase>
+  </topic>
+  <topic id="3" alpha="0.08178700941489957" totalTokens="447" titles="shadows, images, objects, blind, visible, intelligence, proportion, region, clearness, ">
+	<word weight="0.05145413870246085" count="23">shadows</word>
+	<word weight="0.040268456375838924" count="18">images</word>
+	<word weight="0.03803131991051454" count="17">objects</word>
+	<word weight="0.024608501118568233" count="11">blind</word>
+	<word weight="0.024608501118568233" count="11">visible</word>
+	<word weight="0.020134228187919462" count="9">intelligence</word>
+	<word weight="0.017897091722595078" count="8">proportion</word>
+	<word weight="0.017897091722595078" count="8">region</word>
+	<word weight="0.017897091722595078" count="8">clearness</word>
+	<phrase weight="0.04" count="2">perception shadows</phrase>
+	<phrase weight="0.02" count="1">smallness fingers</phrase>
+	<phrase weight="0.02" count="1">calculating divide</phrase>
+	<phrase weight="0.02" count="1">audience hard</phrase>
+	<phrase weight="0.02" count="1">fingers middle extremity</phrase>
+	<phrase weight="0.02" count="1">middle region</phrase>
+	<phrase weight="0.02" count="1">visible intelligible compare subdivisions respect clearness clearness</phrase>
+	<phrase weight="0.02" count="1">shadows reflections</phrase>
+	<phrase weight="0.02" count="1">objects sense untrustworthy</phrase>
+	<phrase weight="0.02" count="1">upper region</phrase>
+  </topic>
+  <topic id="4" alpha="0.1444745570706918" totalTokens="858" titles="homer, words, imitation, poetry, style, imitate, kind, rhythm, ">
+	<word weight="0.03496503496503497" count="30">homer</word>
+	<word weight="0.03263403263403263" count="28">words</word>
+	<word weight="0.03146853146853147" count="27">imitation</word>
+	<word weight="0.029137529137529136" count="25">poetry</word>
+	<word weight="0.029137529137529136" count="25">style</word>
+	<word weight="0.027972027972027972" count="24">poet</word>
+	<word weight="0.02564102564102564" count="22">imitate</word>
+	<word weight="0.022144522144522144" count="19">kind</word>
+	<word weight="0.02097902097902098" count="18">rhythm</word>
+	<phrase weight="0.016666666666666666" count="2">thrice removed</phrase>
+	<phrase weight="0.016666666666666666" count="2">tragedy comedy</phrase>
+	<phrase weight="0.008333333333333333" count="1">poet words phrases lay</phrase>
+	<phrase weight="0.008333333333333333" count="1">subject poetry</phrase>
+	<phrase weight="0.008333333333333333" count="1">narrative style</phrase>
+	<phrase weight="0.008333333333333333" count="1">teacher charming tragic</phrase>
+	<phrase weight="0.008333333333333333" count="1">harshness politeness</phrase>
+	<phrase weight="0.008333333333333333" count="1">sweet holy</phrase>
+	<phrase weight="0.008333333333333333" count="1">strangers words</phrase>
+	<phrase weight="0.008333333333333333" count="1">grace harmony</phrase>
+  </topic>
+  <topic id="5" alpha="0.15526758371679417" totalTokens="734" titles="children, common, women, slaves, call, country, guardians, wives, taking, ">
+	<word weight="0.08991825613079019" count="66">children</word>
+	<word weight="0.04223433242506812" count="31">common</word>
+	<word weight="0.04087193460490463" count="30">women</word>
+	<word weight="0.025885558583106268" count="19">slaves</word>
+	<word weight="0.02316076294277929" count="17">call</word>
+	<word weight="0.020435967302452316" count="15">country</word>
+	<word weight="0.01907356948228883" count="14">guardians</word>
+	<word weight="0.01634877384196185" count="12">wives</word>
+	<word weight="0.01634877384196185" count="12">taking</word>
+	<phrase weight="0.05555555555555555" count="4">women children</phrase>
+	<phrase weight="0.027777777777777776" count="2">fathers mothers</phrase>
+	<phrase weight="0.027777777777777776" count="2">wives children common</phrase>
+	<phrase weight="0.027777777777777776" count="2">community women children</phrase>
+	<phrase weight="0.027777777777777776" count="2">slaves freemen</phrase>
+	<phrase weight="0.013888888888888888" count="1">male sex</phrase>
+	<phrase weight="0.013888888888888888" count="1">children time</phrase>
+	<phrase weight="0.013888888888888888" count="1">women procreation children appointment</phrase>
+	<phrase weight="0.013888888888888888" count="1">acknowledged acknowledged</phrase>
+	<phrase weight="0.013888888888888888" count="1">male female sex</phrase>
+  </topic>
+  <topic id="6" alpha="0.09159151088546964" totalTokens="466" titles="measure, feeling, strange, error, lion, step, finding, reflect, arts, ">
+	<word weight="0.02575107296137339" count="12">measure</word>
+	<word weight="0.023605150214592276" count="11">feeling</word>
+	<word weight="0.019313304721030045" count="9">strange</word>
+	<word weight="0.019313304721030045" count="9">error</word>
+	<word weight="0.017167381974248927" count="8">lion</word>
+	<word weight="0.017167381974248927" count="8">step</word>
+	<word weight="0.017167381974248927" count="8">finding</word>
+	<word weight="0.015021459227467811" count="7">reflect</word>
+	<word weight="0.015021459227467811" count="7">arts</word>
+	<phrase weight="0.02564102564102564" count="1">illusion colours</phrase>
+	<phrase weight="0.02564102564102564" count="1">vulgarity meanness rabble</phrase>
+	<phrase weight="0.02564102564102564" count="1">give impatience</phrase>
+	<phrase weight="0.02564102564102564" count="1">created instruments</phrase>
+	<phrase weight="0.02564102564102564" count="1">interval separates</phrase>
+	<phrase weight="0.02564102564102564" count="1">assure error intentional</phrase>
+	<phrase weight="0.02564102564102564" count="1">multitudinous monster</phrase>
+	<phrase weight="0.02564102564102564" count="1">moderation error characteristic features</phrase>
+	<phrase weight="0.02564102564102564" count="1">harsh feeling</phrase>
+	<phrase weight="0.02564102564102564" count="1">hand swan musicians</phrase>
+  </topic>
+  <topic id="7" alpha="0.16790936643107887" totalTokens="823" titles="interest, stronger, ruler, science, subjects, object, sciences, speaking, rulers, ">
+	<word weight="0.06804374240583232" count="56">interest</word>
+	<word weight="0.04374240583232078" count="36">stronger</word>
+	<word weight="0.038882138517618466" count="32">ruler</word>
+	<word weight="0.03766707168894289" count="31">science</word>
+	<word weight="0.02551640340218712" count="21">subjects</word>
+	<word weight="0.024301336573511544" count="20">object</word>
+	<word weight="0.020656136087484813" count="17">sciences</word>
+	<word weight="0.018226002430133656" count="15">speaking</word>
+	<word weight="0.018226002430133656" count="15">rulers</word>
+	<phrase weight="0.03614457831325301" count="3">interest stronger</phrase>
+	<phrase weight="0.024096385542168676" count="2">horsemanship interests</phrase>
+	<phrase weight="0.024096385542168676" count="2">interest subjects</phrase>
+	<phrase weight="0.012048192771084338" count="1">remark defining</phrase>
+	<phrase weight="0.012048192771084338" count="1">interest ruler stronger</phrase>
+	<phrase weight="0.012048192771084338" count="1">interest stronger stronger</phrase>
+	<phrase weight="0.012048192771084338" count="1">view interests</phrase>
+	<phrase weight="0.012048192771084338" count="1">command interest</phrase>
+	<phrase weight="0.012048192771084338" count="1">thrasymachus speaking</phrase>
+	<phrase weight="0.012048192771084338" count="1">geometry calculation</phrase>
+  </topic>
+  <topic id="8" alpha="0.2845825796346095" totalTokens="1563" titles="justice, injustice, unjust, men, gods, thrasymachus, view, glaucon, power, ">
+	<word weight="0.1433141394753679" count="224">justice</word>
+	<word weight="0.0710172744721689" count="111">injustice</word>
+	<word weight="0.06589891234804862" count="103">unjust</word>
+	<word weight="0.03134996801023673" count="49">men</word>
+	<word weight="0.026871401151631478" count="42">gods</word>
+	<word weight="0.021753039027511197" count="34">thrasymachus</word>
+	<word weight="0.020473448496481125" count="32">view</word>
+	<word weight="0.016634676903390915" count="26">glaucon</word>
+	<word weight="0.01599488163787588" count="25">power</word>
+	<phrase weight="0.05714285714285714" count="10">justice injustice</phrase>
+	<phrase weight="0.017142857142857144" count="3">gods men</phrase>
+	<phrase weight="0.011428571428571429" count="2">superiority justice injustice</phrase>
+	<phrase weight="0.011428571428571429" count="2">perfectly unjust</phrase>
+	<phrase weight="0.011428571428571429" count="2">unjust unjust</phrase>
+	<phrase weight="0.011428571428571429" count="2">justice justice</phrase>
+	<phrase weight="0.011428571428571429" count="2">point view</phrase>
+	<phrase weight="0.011428571428571429" count="2">nature justice injustice</phrase>
+	<phrase weight="0.005714285714285714" count="1">serve show</phrase>
+	<phrase weight="0.005714285714285714" count="1">punished punished</phrase>
+  </topic>
+  <topic id="9" alpha="0.1223046142837405" totalTokens="574" titles="friends, drink, enemies, desire, food, harm, term, simple, thirst, ">
+	<word weight="0.05574912891986063" count="32">friends</word>
+	<word weight="0.05400696864111498" count="31">drink</word>
+	<word weight="0.04878048780487805" count="28">enemies</word>
+	<word weight="0.04529616724738676" count="26">desire</word>
+	<word weight="0.041811846689895474" count="24">food</word>
+	<word weight="0.03484320557491289" count="20">harm</word>
+	<word weight="0.027874564459930314" count="16">term</word>
+	<word weight="0.02613240418118467" count="15">simple</word>
+	<word weight="0.02264808362369338" count="13">thirst</word>
+	<phrase weight="0.037037037037037035" count="2">hunger cold</phrase>
+	<phrase weight="0.037037037037037035" count="2">hunger thirst</phrase>
+	<phrase weight="0.018518518518518517" count="1">drink thirsty</phrase>
+	<phrase weight="0.018518518518518517" count="1">desire brings</phrase>
+	<phrase weight="0.018518518518518517" count="1">insatiable desire</phrase>
+	<phrase weight="0.018518518518518517" count="1">food summer heat winter cold</phrase>
+	<phrase weight="0.018518518518518517" count="1">crime order</phrase>
+	<phrase weight="0.018518518518518517" count="1">boils chafes</phrase>
+	<phrase weight="0.018518518518518517" count="1">friends behave</phrase>
+	<phrase weight="0.018518518518518517" count="1">simple desire drink</phrase>
+  </topic>
+  <topic id="10" alpha="0.49081835691096765" totalTokens="1832" titles="make, replied, friend, answer, sort, suppose, case, speaking, ">
+	<word weight="0.0665938864628821" count="122">make</word>
+	<word weight="0.05949781659388646" count="109">replied</word>
+	<word weight="0.039847161572052404" count="73">friend</word>
+	<word weight="0.039847161572052404" count="73">answer</word>
+	<word weight="0.03820960698689956" count="70">sort</word>
+	<word weight="0.03275109170305677" count="60">suppose</word>
+	<word weight="0.028930131004366814" count="53">case</word>
+	<word weight="0.024563318777292575" count="45">speaking</word>
+	<word weight="0.02019650655021834" count="37">speak</word>
+	<phrase weight="0.017543859649122806" count="3">answer answer</phrase>
+	<phrase weight="0.005847953216374269" count="1">sort make determined</phrase>
+	<phrase weight="0.005847953216374269" count="1">mythology speaking</phrase>
+	<phrase weight="0.005847953216374269" count="1">speaking replied</phrase>
+	<phrase weight="0.005847953216374269" count="1">friend turn</phrase>
+	<phrase weight="0.005847953216374269" count="1">person asked</phrase>
+	<phrase weight="0.005847953216374269" count="1">worse detected</phrase>
+	<phrase weight="0.005847953216374269" count="1">make speaker</phrase>
+	<phrase weight="0.005847953216374269" count="1">answer question falsely</phrase>
+	<phrase weight="0.005847953216374269" count="1">notions feet</phrase>
+  </topic>
+  <topic id="11" alpha="0.15965552738627614" totalTokens="746" titles="spirit, reason, man, element, sorrow, passion, angry, noble, observe, ">
+	<word weight="0.058981233243967826" count="44">spirit</word>
+	<word weight="0.030831099195710455" count="23">reason</word>
+	<word weight="0.029490616621983913" count="22">man</word>
+	<word weight="0.02546916890080429" count="19">element</word>
+	<word weight="0.022788203753351208" count="17">sorrow</word>
+	<word weight="0.022788203753351208" count="17">passion</word>
+	<word weight="0.020107238605898123" count="15">angry</word>
+	<word weight="0.01742627345844504" count="13">noble</word>
+	<word weight="0.0160857908847185" count="12">observe</word>
+	<phrase weight="0.02666666666666667" count="2">pursued spirit</phrase>
+	<phrase weight="0.02666666666666667" count="2">passionate element</phrase>
+	<phrase weight="0.02666666666666667" count="2">contentious ambitious</phrase>
+	<phrase weight="0.02666666666666667" count="2">noble spirit</phrase>
+	<phrase weight="0.013333333333333334" count="1">aggressive spirit gently</phrase>
+	<phrase weight="0.013333333333333334" count="1">prevail reason reviles angry violence struggle struggle factions</phrase>
+	<phrase weight="0.013333333333333334" count="1">passion spirit tempered</phrase>
+	<phrase weight="0.013333333333333334" count="1">spirit contention ambition due</phrase>
+	<phrase weight="0.013333333333333334" count="1">observe narrow</phrase>
+	<phrase weight="0.013333333333333334" count="1">softening soothing</phrase>
+  </topic>
+  <topic id="12" alpha="0.11282998985378415" totalTokens="692" titles="socrates, glaucon, adeimantus, polemarchus, argument, cephalus, thrasymachus, made, discussion, ">
+	<word weight="0.09826589595375723" count="68">socrates</word>
+	<word weight="0.07225433526011561" count="50">glaucon</word>
+	<word weight="0.06647398843930635" count="46">adeimantus</word>
+	<word weight="0.04046242774566474" count="28">polemarchus</word>
+	<word weight="0.033236994219653176" count="23">argument</word>
+	<word weight="0.02601156069364162" count="18">cephalus</word>
+	<word weight="0.02601156069364162" count="18">thrasymachus</word>
+	<word weight="0.024566473988439308" count="17">made</word>
+	<word weight="0.023121387283236993" count="16">discussion</word>
+	<phrase weight="0.03488372093023256" count="3">glaucon adeimantus</phrase>
+	<phrase weight="0.023255813953488372" count="2">socrates glaucon</phrase>
+	<phrase weight="0.011627906976744186" count="1">xen mem iii</phrase>
+	<phrase weight="0.011627906976744186" count="1">polemarchus adeimantus put</phrase>
+	<phrase weight="0.011627906976744186" count="1">sculptor socrates made statues</phrase>
+	<phrase weight="0.011627906976744186" count="1">aged cephalus</phrase>
+	<phrase weight="0.011627906976744186" count="1">confess glaucon</phrase>
+	<phrase weight="0.011627906976744186" count="1">socrates regrets</phrase>
+	<phrase weight="0.011627906976744186" count="1">rage lays</phrase>
+	<phrase weight="0.011627906976744186" count="1">socrates glaucon thrasymachus anxiety</phrase>
+  </topic>
+  <topic id="13" alpha="0.6284777520490714" totalTokens="2682" titles="state, guardians, citizens, made, rulers, states, individual, government, order, ">
+	<word weight="0.1487695749440716" count="399">state</word>
+	<word weight="0.024608501118568233" count="66">guardians</word>
+	<word weight="0.021998508575689784" count="59">citizens</word>
+	<word weight="0.021252796420581657" count="57">made</word>
+	<word weight="0.020879940343027592" count="56">rulers</word>
+	<word weight="0.017524235645041013" count="47">states</word>
+	<word weight="0.017524235645041013" count="47">individual</word>
+	<word weight="0.016778523489932886" count="45">government</word>
+	<word weight="0.01640566741237882" count="44">order</word>
+	<phrase weight="0.01694915254237288" count="5">individual state</phrase>
+	<phrase weight="0.013559322033898305" count="4">form government</phrase>
+	<phrase weight="0.010169491525423728" count="3">states individuals</phrase>
+	<phrase weight="0.010169491525423728" count="3">state state</phrase>
+	<phrase weight="0.006779661016949152" count="2">guardians state</phrase>
+	<phrase weight="0.006779661016949152" count="2">agree agree</phrase>
+	<phrase weight="0.006779661016949152" count="2">individuals supposed</phrase>
+	<phrase weight="0.006779661016949152" count="2">ordered state</phrase>
+	<phrase weight="0.006779661016949152" count="2">order government</phrase>
+	<phrase weight="0.006779661016949152" count="2">state rulers</phrase>
+  </topic>
+  <topic id="14" alpha="0.07732967627174893" totalTokens="543" titles="gold, war, houses, silver, hellenes, husbandman, iron, barbarians, enemies, ">
+	<word weight="0.04788213627992634" count="26">gold</word>
+	<word weight="0.040515653775322284" count="22">war</word>
+	<word weight="0.034990791896869246" count="19">houses</word>
+	<word weight="0.034990791896869246" count="19">silver</word>
+	<word weight="0.02578268876611418" count="14">hellenes</word>
+	<word weight="0.02394106813996317" count="13">husbandman</word>
+	<word weight="0.01841620626151013" count="10">iron</word>
+	<word weight="0.01841620626151013" count="10">barbarians</word>
+	<word weight="0.01841620626151013" count="10">enemies</word>
+	<phrase weight="0.04878048780487805" count="4">gold silver</phrase>
+	<phrase weight="0.036585365853658534" count="3">silver gold</phrase>
+	<phrase weight="0.024390243902439025" count="2">diameters square</phrase>
+	<phrase weight="0.012195121951219513" count="1">deposit gold</phrase>
+	<phrase weight="0.012195121951219513" count="1">husbandmen artisans</phrase>
+	<phrase weight="0.012195121951219513" count="1">war muses</phrase>
+	<phrase weight="0.012195121951219513" count="1">husbandman artisan</phrase>
+	<phrase weight="0.012195121951219513" count="1">manage affairs hellenes barbarians</phrase>
+	<phrase weight="0.012195121951219513" count="1">husbandman shoemaker</phrase>
+	<phrase weight="0.012195121951219513" count="1">golden silver</phrase>
+  </topic>
+  <topic id="15" alpha="0.6874658694582734" totalTokens="2614" titles="true, soul, nature, replied, principle, reason, part, natural, order, ">
+	<word weight="0.06388676358071921" count="167">true</word>
+	<word weight="0.06235654169854629" count="163">soul</word>
+	<word weight="0.05776587605202754" count="151">nature</word>
+	<word weight="0.05394032134659526" count="141">replied</word>
+	<word weight="0.03098699311400153" count="81">principle</word>
+	<word weight="0.029456771231828615" count="77">reason</word>
+	<word weight="0.029456771231828615" count="77">part</word>
+	<word weight="0.019127773527161437" count="50">natural</word>
+	<word weight="0.017597551644988524" count="46">order</word>
+	<phrase weight="0.02074688796680498" count="5">part soul</phrase>
+	<phrase weight="0.016597510373443983" count="4">principle soul</phrase>
+	<phrase weight="0.012448132780082987" count="3">true replied</phrase>
+	<phrase weight="0.008298755186721992" count="2">ruling principle</phrase>
+	<phrase weight="0.008298755186721992" count="2">part nature</phrase>
+	<phrase weight="0.008298755186721992" count="2">image soul</phrase>
+	<phrase weight="0.008298755186721992" count="2">true nature</phrase>
+	<phrase weight="0.008298755186721992" count="2">higher principle</phrase>
+	<phrase weight="0.008298755186721992" count="2">replied true</phrase>
+	<phrase weight="0.008298755186721992" count="2">soul nature</phrase>
+  </topic>
+  <topic id="16" alpha="0.13780321917719698" totalTokens="624" titles="rich, honour, poor, place, enemy, dead, army, battle, honoured, ">
+	<word weight="0.05608974358974359" count="35">rich</word>
+	<word weight="0.03685897435897436" count="23">honour</word>
+	<word weight="0.03205128205128205" count="20">poor</word>
+	<word weight="0.03205128205128205" count="20">place</word>
+	<word weight="0.027243589743589744" count="17">enemy</word>
+	<word weight="0.020833333333333332" count="13">dead</word>
+	<word weight="0.019230769230769232" count="12">army</word>
+	<word weight="0.017628205128205128" count="11">battle</word>
+	<word weight="0.017628205128205128" count="11">honoured</word>
+	<phrase weight="0.018867924528301886" count="1">danger poor</phrase>
+	<phrase weight="0.018867924528301886" count="1">poor despised rich</phrase>
+	<phrase weight="0.018867924528301886" count="1">battle march</phrase>
+	<phrase weight="0.018867924528301886" count="1">hour danger stern</phrase>
+	<phrase weight="0.018867924528301886" count="1">place observing</phrase>
+	<phrase weight="0.018867924528301886" count="1">battle side</phrase>
+	<phrase weight="0.018867924528301886" count="1">gains expense rich</phrase>
+	<phrase weight="0.018867924528301886" count="1">receive honour</phrase>
+	<phrase weight="0.018867924528301886" count="1">place side</phrase>
+	<phrase weight="0.018867924528301886" count="1">battle rewarded</phrase>
+  </topic>
+  <topic id="17" alpha="0.19350322098784217" totalTokens="887" titles="pleasure, pleasures, pain, lover, gain, sort, lovers, wisdom, ">
+	<word weight="0.0834272829763247" count="74">pleasure</word>
+	<word weight="0.0496054114994363" count="44">pleasures</word>
+	<word weight="0.04735062006764374" count="42">pain</word>
+	<word weight="0.043968432919954906" count="39">lover</word>
+	<word weight="0.03494926719278467" count="31">love</word>
+	<word weight="0.029312288613303268" count="26">gain</word>
+	<word weight="0.02705749718151071" count="24">sort</word>
+	<word weight="0.02367531003382187" count="21">lovers</word>
+	<word weight="0.02142051860202931" count="19">wisdom</word>
+	<phrase weight="0.03571428571428571" count="3">pleasure pain</phrase>
+	<phrase weight="0.03571428571428571" count="3">lover gain</phrase>
+	<phrase weight="0.023809523809523808" count="2">lovers wisdom lovers</phrase>
+	<phrase weight="0.023809523809523808" count="2">soldier lover</phrase>
+	<phrase weight="0.023809523809523808" count="2">lover wisdom</phrase>
+	<phrase weight="0.011904761904761904" count="1">abiding learning</phrase>
+	<phrase weight="0.011904761904761904" count="1">absorbed pleasures</phrase>
+	<phrase weight="0.011904761904761904" count="1">mad intemperate pleasure</phrase>
+	<phrase weight="0.011904761904761904" count="1">truth notion</phrase>
+	<phrase weight="0.011904761904761904" count="1">inexperienced truth wrong</phrase>
+  </topic>
+  <topic id="18" alpha="0.027154108346276327" totalTokens="737" titles="plato, republic, book, world, ideas, philosophy, books, work, ">
+	<word weight="0.052917232021709636" count="39">plato</word>
+	<word weight="0.033921302578018994" count="25">republic</word>
+	<word weight="0.023066485753052916" count="17">book</word>
+	<word weight="0.021709633649932156" count="16">world</word>
+	<word weight="0.016282225237449117" count="12">ideas</word>
+	<word weight="0.016282225237449117" count="12">idea</word>
+	<word weight="0.016282225237449117" count="12">philosophy</word>
+	<word weight="0.014925373134328358" count="11">books</word>
+	<word weight="0.014925373134328358" count="11">work</word>
+	<phrase weight="0.027777777777777776" count="4">sixth book</phrase>
+	<phrase weight="0.006944444444444444" count="1">christian language kingdom</phrase>
+	<phrase weight="0.006944444444444444" count="1">found republic invented plato greatest logical truths writers philosophy</phrase>
+	<phrase weight="0.006944444444444444" count="1">poetry denounced greek</phrase>
+	<phrase weight="0.006944444444444444" count="1">world embodiment kingdom</phrase>
+	<phrase weight="0.006944444444444444" count="1">earlier books republic resumed</phrase>
+	<phrase weight="0.006944444444444444" count="1">reconcilement writer</phrase>
+	<phrase weight="0.006944444444444444" count="1">world embodiment</phrase>
+	<phrase weight="0.006944444444444444" count="1">determined subject</phrase>
+	<phrase weight="0.006944444444444444" count="1">relation writings</phrase>
+  </topic>
+  <topic id="19" alpha="0.20270693433947157" totalTokens="828" titles="question, fear, argument, words, difficulty, war, proceed, admit, acknowledge, ">
+	<word weight="0.04710144927536232" count="39">question</word>
+	<word weight="0.033816425120772944" count="28">fear</word>
+	<word weight="0.03260869565217391" count="27">argument</word>
+	<word weight="0.03260869565217391" count="27">words</word>
+	<word weight="0.030193236714975844" count="25">difficulty</word>
+	<word weight="0.024154589371980676" count="20">war</word>
+	<word weight="0.022946859903381644" count="19">proceed</word>
+	<word weight="0.020531400966183576" count="17">admit</word>
+	<word weight="0.01932367149758454" count="16">acknowledge</word>
+	<phrase weight="0.034482758620689655" count="2">pruning hook</phrase>
+	<phrase weight="0.034482758620689655" count="2">carry argument</phrase>
+	<phrase weight="0.017241379310344827" count="1">submit fate</phrase>
+	<phrase weight="0.017241379310344827" count="1">confer benefit</phrase>
+	<phrase weight="0.017241379310344827" count="1">determining war</phrase>
+	<phrase weight="0.017241379310344827" count="1">difficulty devising</phrase>
+	<phrase weight="0.017241379310344827" count="1">fear death</phrase>
+	<phrase weight="0.017241379310344827" count="1">question proposed</phrase>
+	<phrase weight="0.017241379310344827" count="1">question decided</phrase>
+	<phrase weight="0.017241379310344827" count="1">decide proceed</phrase>
+  </topic>
+  <topic id="20" alpha="0.2763784826871306" totalTokens="1192" titles="truth, knowledge, mind, degree, thought, manner, nature, matter, highest, ">
+	<word weight="0.087248322147651" count="104">truth</word>
+	<word weight="0.04614093959731544" count="55">knowledge</word>
+	<word weight="0.03607382550335571" count="43">mind</word>
+	<word weight="0.02348993288590604" count="28">degree</word>
+	<word weight="0.02181208053691275" count="26">thought</word>
+	<word weight="0.020134228187919462" count="24">manner</word>
+	<word weight="0.018456375838926176" count="22">nature</word>
+	<word weight="0.015939597315436243" count="19">matter</word>
+	<word weight="0.015939597315436243" count="19">highest</word>
+	<phrase weight="0.024390243902439025" count="2">truth essence</phrase>
+	<phrase weight="0.024390243902439025" count="2">matter manner</phrase>
+	<phrase weight="0.024390243902439025" count="2">highest degree</phrase>
+	<phrase weight="0.012195121951219513" count="1">disproven difference</phrase>
+	<phrase weight="0.012195121951219513" count="1">settled manner</phrase>
+	<phrase weight="0.012195121951219513" count="1">thinking snatch</phrase>
+	<phrase weight="0.012195121951219513" count="1">truth matters</phrase>
+	<phrase weight="0.012195121951219513" count="1">essence possess unable</phrase>
+	<phrase weight="0.012195121951219513" count="1">truth highest</phrase>
+	<phrase weight="0.012195121951219513" count="1">exist exercised</phrase>
+  </topic>
+  <topic id="21" alpha="0.3663417449604868" totalTokens="1500" titles="men, education, city, young, give, natures, put, people, law, ">
+	<word weight="0.07466666666666667" count="112">men</word>
+	<word weight="0.03866666666666667" count="58">education</word>
+	<word weight="0.03333333333333333" count="50">city</word>
+	<word weight="0.03266666666666666" count="49">young</word>
+	<word weight="0.028" count="42">give</word>
+	<word weight="0.02666666666666667" count="40">natures</word>
+	<word weight="0.025333333333333333" count="38">put</word>
+	<word weight="0.024666666666666667" count="37">people</word>
+	<word weight="0.023333333333333334" count="35">law</word>
+	<phrase weight="0.03007518796992481" count="4">young men</phrase>
+	<phrase weight="0.015037593984962405" count="2">give city</phrase>
+	<phrase weight="0.015037593984962405" count="2">men women</phrase>
+	<phrase weight="0.007518796992481203" count="1">falls prosecute</phrase>
+	<phrase weight="0.007518796992481203" count="1">men blamed</phrase>
+	<phrase weight="0.007518796992481203" count="1">greater share</phrase>
+	<phrase weight="0.007518796992481203" count="1">commonwealth fiction</phrase>
+	<phrase weight="0.007518796992481203" count="1">ministers education</phrase>
+	<phrase weight="0.007518796992481203" count="1">men authors greatest</phrase>
+	<phrase weight="0.007518796992481203" count="1">make law</phrase>
+  </topic>
+  <topic id="22" alpha="0.14477587169952508" totalTokens="653" titles="virtue, making, vice, bear, result, call, makes, reasons, grow, ">
+	<word weight="0.10107197549770292" count="66">virtue</word>
+	<word weight="0.042879019908116385" count="28">making</word>
+	<word weight="0.03522205206738132" count="23">vice</word>
+	<word weight="0.026033690658499236" count="17">bear</word>
+	<word weight="0.022970903522205207" count="15">result</word>
+	<word weight="0.022970903522205207" count="15">call</word>
+	<word weight="0.019908116385911178" count="13">makes</word>
+	<word weight="0.016845329249617153" count="11">reasons</word>
+	<word weight="0.01225114854517611" count="8">grow</word>
+	<phrase weight="0.046153846153846156" count="3">virtue vice</phrase>
+	<phrase weight="0.015384615384615385" count="1">making branch</phrase>
+	<phrase weight="0.015384615384615385" count="1">belongs impair virtue</phrase>
+	<phrase weight="0.015384615384615385" count="1">practising making</phrase>
+	<phrase weight="0.015384615384615385" count="1">deformity noxious</phrase>
+	<phrase weight="0.015384615384615385" count="1">followers grow</phrase>
+	<phrase weight="0.015384615384615385" count="1">virtue bear</phrase>
+	<phrase weight="0.015384615384615385" count="1">hellespont allowed</phrase>
+	<phrase weight="0.015384615384615385" count="1">bear doubled</phrase>
+	<phrase weight="0.015384615384615385" count="1">folly casks</phrase>
+  </topic>
+  <topic id="23" alpha="0.25868974160279634" totalTokens="1375" titles="life, men, time, age, private, man, public, human, years, ">
+	<word weight="0.12436363636363636" count="171">life</word>
+	<word weight="0.03418181818181818" count="47">men</word>
+	<word weight="0.03127272727272727" count="43">time</word>
+	<word weight="0.02909090909090909" count="40">age</word>
+	<word weight="0.028363636363636365" count="39">private</word>
+	<word weight="0.024727272727272726" count="34">man</word>
+	<word weight="0.024" count="33">public</word>
+	<word weight="0.02181818181818182" count="30">human</word>
+	<word weight="0.01890909090909091" count="26">years</word>
+	<phrase weight="0.022388059701492536" count="3">human life</phrase>
+	<phrase weight="0.022388059701492536" count="3">private public</phrase>
+	<phrase weight="0.022388059701492536" count="3">public private</phrase>
+	<phrase weight="0.014925373134328358" count="2">twenty years</phrase>
+	<phrase weight="0.014925373134328358" count="2">years passed</phrase>
+	<phrase weight="0.014925373134328358" count="2">private life</phrase>
+	<phrase weight="0.007462686567164179" count="1">relations attributed age men characters</phrase>
+	<phrase weight="0.007462686567164179" count="1">care honours</phrase>
+	<phrase weight="0.007462686567164179" count="1">human life evils</phrase>
+	<phrase weight="0.007462686567164179" count="1">time child start</phrase>
+  </topic>
+  <topic id="24" alpha="0.15543903897702427" totalTokens="735" titles="things, beauty, absolute, beautiful, idea, place, world, present, forms, ">
+	<word weight="0.07346938775510205" count="54">things</word>
+	<word weight="0.05170068027210884" count="38">beauty</word>
+	<word weight="0.04353741496598639" count="32">absolute</word>
+	<word weight="0.036734693877551024" count="27">beautiful</word>
+	<word weight="0.0326530612244898" count="24">idea</word>
+	<word weight="0.021768707482993196" count="16">place</word>
+	<word weight="0.021768707482993196" count="16">world</word>
+	<word weight="0.01904761904761905" count="14">present</word>
+	<word weight="0.01904761904761905" count="14">forms</word>
+	<phrase weight="0.02631578947368421" count="2">beautiful things</phrase>
+	<phrase weight="0.013157894736842105" count="1">feeds earth</phrase>
+	<phrase weight="0.013157894736842105" count="1">beauty beauty</phrase>
+	<phrase weight="0.013157894736842105" count="1">beautiful absolute beauty follow</phrase>
+	<phrase weight="0.013157894736842105" count="1">absolute unchangeable idea beauty</phrase>
+	<phrase weight="0.013157894736842105" count="1">form cast</phrase>
+	<phrase weight="0.013157894736842105" count="1">absolute beauty beautiful absolute</phrase>
+	<phrase weight="0.013157894736842105" count="1">place governors</phrase>
+	<phrase weight="0.013157894736842105" count="1">absolute beauty</phrase>
+	<phrase weight="0.013157894736842105" count="1">ideas ideas ideas</phrase>
+  </topic>
+  <topic id="25" alpha="0.2956633430717709" totalTokens="1249" titles="end, true, philosophy, number, great, mind, man, philosopher, study, ">
+	<word weight="0.03843074459567654" count="48">end</word>
+	<word weight="0.03682946357085669" count="46">true</word>
+	<word weight="0.036028823058446756" count="45">philosophy</word>
+	<word weight="0.03362690152121697" count="42">number</word>
+	<word weight="0.03282626100880705" count="41">great</word>
+	<word weight="0.02642113690952762" count="33">mind</word>
+	<word weight="0.025620496397117692" count="32">man</word>
+	<word weight="0.024819855884707767" count="31">philosopher</word>
+	<word weight="0.02401921537229784" count="30">study</word>
+	<phrase weight="0.045454545454545456" count="4">study philosophy</phrase>
+	<phrase weight="0.011363636363636364" count="1">wanting arrive</phrase>
+	<phrase weight="0.011363636363636364" count="1">calling man loudly earnestly</phrase>
+	<phrase weight="0.011363636363636364" count="1">united ties blood</phrase>
+	<phrase weight="0.011363636363636364" count="1">euripides great</phrase>
+	<phrase weight="0.011363636363636364" count="1">proper excellence</phrase>
+	<phrase weight="0.011363636363636364" count="1">seeking learn sense</phrase>
+	<phrase weight="0.011363636363636364" count="1">learn suited</phrase>
+	<phrase weight="0.011363636363636364" count="1">study power drawing</phrase>
+	<phrase weight="0.011363636363636364" count="1">hear similitude</phrase>
+  </topic>
+  <topic id="26" alpha="0.04076879783283407" totalTokens="466" titles="earth, heaven, fourth, move, side, hand, eighth, whorl, spindle, ">
+	<word weight="0.034334763948497854" count="16">earth</word>
+	<word weight="0.030042918454935622" count="14">heaven</word>
+	<word weight="0.023605150214592276" count="11">fourth</word>
+	<word weight="0.02145922746781116" count="10">move</word>
+	<word weight="0.019313304721030045" count="9">side</word>
+	<word weight="0.019313304721030045" count="9">hand</word>
+	<word weight="0.017167381974248927" count="8">eighth</word>
+	<word weight="0.015021459227467811" count="7">whorl</word>
+	<word weight="0.015021459227467811" count="7">spindle</word>
+	<phrase weight="0.017543859649122806" count="1">heaven don prepare</phrase>
+	<phrase weight="0.017543859649122806" count="1">materials whorl form whorl earth</phrase>
+	<phrase weight="0.017543859649122806" count="1">outwards reappeared contrived chosen messengers</phrase>
+	<phrase weight="0.017543859649122806" count="1">move slowly</phrase>
+	<phrase weight="0.017543859649122806" count="1">sixth size fourth sixth eighth seventh sixth seventh eighth</phrase>
+	<phrase weight="0.017543859649122806" count="1">encamped festival</phrase>
+	<phrase weight="0.017543859649122806" count="1">place line</phrase>
+	<phrase weight="0.017543859649122806" count="1">fast colour washing lyes bloom</phrase>
+	<phrase weight="0.017543859649122806" count="1">oligarchy exclusive</phrase>
+	<phrase weight="0.017543859649122806" count="1">collet outwards reappeared</phrase>
+  </topic>
+  <topic id="27" alpha="0.05632012057103516" totalTokens="381" titles="philosophers, pilot, captain, kings, sailors, ship, sea, strain, ">
+	<word weight="0.06561679790026247" count="25">philosophers</word>
+	<word weight="0.04461942257217848" count="17">pilot</word>
+	<word weight="0.031496062992125984" count="12">captain</word>
+	<word weight="0.031496062992125984" count="12">kings</word>
+	<word weight="0.028871391076115485" count="11">sailors</word>
+	<word weight="0.023622047244094488" count="9">ship</word>
+	<word weight="0.02099737532808399" count="8">sea</word>
+	<word weight="0.02099737532808399" count="8">strain</word>
+	<word weight="0.01837270341207349" count="7">sailor</word>
+	<phrase weight="0.022727272727272728" count="1">taphorhtika auto</phrase>
+	<phrase weight="0.022727272727272728" count="1">year seasons</phrase>
+	<phrase weight="0.022727272727272728" count="1">remarkable charm</phrase>
+	<phrase weight="0.022727272727272728" count="1">pilot regarded called prater star gazer</phrase>
+	<phrase weight="0.022727272727272728" count="1">fame blameless</phrase>
+	<phrase weight="0.022727272727272728" count="1">ship make</phrase>
+	<phrase weight="0.022727272727272728" count="1">deserve severest</phrase>
+	<phrase weight="0.022727272727272728" count="1">regarded captain</phrase>
+	<phrase weight="0.022727272727272728" count="1">priam kinsman</phrase>
+	<phrase weight="0.022727272727272728" count="1">captain frenzy</phrase>
+  </topic>
+  <topic id="28" alpha="0.14515700428459488" totalTokens="845" titles="light, sight, eyes, sun, world, day, turned, ridiculous, ">
+	<word weight="0.07692307692307693" count="65">light</word>
+	<word weight="0.054437869822485205" count="46">sight</word>
+	<word weight="0.03905325443786982" count="33">eyes</word>
+	<word weight="0.03431952662721893" count="29">sun</word>
+	<word weight="0.03076923076923077" count="26">world</word>
+	<word weight="0.02603550295857988" count="22">day</word>
+	<word weight="0.022485207100591716" count="19">turned</word>
+	<word weight="0.020118343195266272" count="17">ridiculous</word>
+	<word weight="0.01893491124260355" count="16">turn</word>
+	<phrase weight="0.020202020202020204" count="2">turning round</phrase>
+	<phrase weight="0.020202020202020204" count="2">day night</phrase>
+	<phrase weight="0.020202020202020204" count="2">light fire</phrase>
+	<phrase weight="0.020202020202020204" count="2">darkness light</phrase>
+	<phrase weight="0.020202020202020204" count="2">intellectual world</phrase>
+	<phrase weight="0.010101010101010102" count="1">gaze light moon stars spangled heaven</phrase>
+	<phrase weight="0.010101010101010102" count="1">argues supposing</phrase>
+	<phrase weight="0.010101010101010102" count="1">weak eyes</phrase>
+	<phrase weight="0.010101010101010102" count="1">day ascent</phrase>
+	<phrase weight="0.010101010101010102" count="1">compelled straight light</phrase>
+  </topic>
+  <topic id="29" alpha="0.06100231778749365" totalTokens="409" titles="freedom, asclepius, wine, drinking, servants, heads, level, ordinary, commonly, ">
+	<word weight="0.03667481662591687" count="15">freedom</word>
+	<word weight="0.02689486552567237" count="11">asclepius</word>
+	<word weight="0.022004889975550123" count="9">wine</word>
+	<word weight="0.017114914425427872" count="7">drinking</word>
+	<word weight="0.014669926650366748" count="6">servants</word>
+	<word weight="0.014669926650366748" count="6">heads</word>
+	<word weight="0.014669926650366748" count="6">level</word>
+	<word weight="0.014669926650366748" count="6">ordinary</word>
+	<word weight="0.014669926650366748" count="6">commonly</word>
+	<phrase weight="0.018518518518518517" count="1">servants tutors</phrase>
+	<phrase weight="0.018518518518518517" count="1">fit conducive</phrase>
+	<phrase weight="0.018518518518518517" count="1">esteem busy</phrase>
+	<phrase weight="0.018518518518518517" count="1">lapped drink</phrase>
+	<phrase weight="0.018518518518518517" count="1">shedding blood</phrase>
+	<phrase weight="0.018518518518518517" count="1">barley meal</phrase>
+	<phrase weight="0.018518518518518517" count="1">diseases days asclepius</phrase>
+	<phrase weight="0.018518518518518517" count="1">thirsting freedom</phrase>
+	<phrase weight="0.018518518518518517" count="1">families exceed</phrase>
+	<phrase weight="0.018518518518518517" count="1">drink rebuke</phrase>
+  </topic>
+  <topic id="30" alpha="0.2045391801109211" totalTokens="875" titles="opinion, knowledge, subject, matter, kind, ignorance, pure, call, faculty, ">
+	<word weight="0.12" count="105">opinion</word>
+	<word weight="0.11771428571428572" count="103">knowledge</word>
+	<word weight="0.03428571428571429" count="30">subject</word>
+	<word weight="0.030857142857142857" count="27">matter</word>
+	<word weight="0.029714285714285714" count="26">kind</word>
+	<word weight="0.029714285714285714" count="26">ignorance</word>
+	<word weight="0.02857142857142857" count="25">pure</word>
+	<word weight="0.024" count="21">call</word>
+	<word weight="0.02057142857142857" count="18">faculty</word>
+	<phrase weight="0.024691358024691357" count="2">knowledge kind</phrase>
+	<phrase weight="0.024691358024691357" count="2">kind knowledge</phrase>
+	<phrase weight="0.024691358024691357" count="2">retail traders</phrase>
+	<phrase weight="0.024691358024691357" count="2">knowledge ignorance</phrase>
+	<phrase weight="0.024691358024691357" count="2">buying selling</phrase>
+	<phrase weight="0.024691358024691357" count="2">opinion knowledge</phrase>
+	<phrase weight="0.012345679012345678" count="1">runs notes</phrase>
+	<phrase weight="0.012345679012345678" count="1">intermediate opinion</phrase>
+	<phrase weight="0.012345679012345678" count="1">infer opinion intermediate</phrase>
+	<phrase weight="0.012345679012345678" count="1">sphere subject matter knowledge knowledge</phrase>
+  </topic>
+  <topic id="31" alpha="0.03662708762239453" totalTokens="448" titles="soul, souls, finger, choice, lives, lot, earth, journey, world, ">
+	<word weight="0.046875" count="21">soul</word>
+	<word weight="0.033482142857142856" count="15">souls</word>
+	<word weight="0.03125" count="14">finger</word>
+	<word weight="0.024553571428571428" count="11">choice</word>
+	<word weight="0.024553571428571428" count="11">lives</word>
+	<word weight="0.022321428571428572" count="10">lot</word>
+	<word weight="0.022321428571428572" count="10">earth</word>
+	<word weight="0.020089285714285716" count="9">journey</word>
+	<word weight="0.020089285714285716" count="9">world</word>
+	<phrase weight="0.02531645569620253" count="2">finger finger</phrase>
+	<phrase weight="0.012658227848101266" count="1">openings souls ascending earth dusty</phrase>
+	<phrase weight="0.012658227848101266" count="1">cherishes soul lives</phrase>
+	<phrase weight="0.012658227848101266" count="1">mortality genius allotted</phrase>
+	<phrase weight="0.012658227848101266" count="1">dullness soul</phrase>
+	<phrase weight="0.012658227848101266" count="1">suffered tenfold</phrase>
+	<phrase weight="0.012658227848101266" count="1">pass sensation</phrase>
+	<phrase weight="0.012658227848101266" count="1">terrors endured</phrase>
+	<phrase weight="0.012658227848101266" count="1">lot choice</phrase>
+	<phrase weight="0.012658227848101266" count="1">choice lot</phrase>
+  </topic>
+  <topic id="32" alpha="0.13254856313589966" totalTokens="699" titles="art, gods, medicine, arts, similar, zeus, pay, payment, heroes, ">
+	<word weight="0.11587982832618025" count="81">art</word>
+	<word weight="0.04721030042918455" count="33">gods</word>
+	<word weight="0.0357653791130186" count="25">medicine</word>
+	<word weight="0.032904148783977114" count="23">arts</word>
+	<word weight="0.01859799713876967" count="13">similar</word>
+	<word weight="0.017167381974248927" count="12">zeus</word>
+	<word weight="0.017167381974248927" count="12">pay</word>
+	<word weight="0.015736766809728183" count="11">payment</word>
+	<word weight="0.015736766809728183" count="11">heroes</word>
+	<phrase weight="0.029411764705882353" count="2">art medicine</phrase>
+	<phrase weight="0.029411764705882353" count="2">gods heroes</phrase>
+	<phrase weight="0.014705882352941176" count="1">ancestral deity</phrase>
+	<phrase weight="0.014705882352941176" count="1">art payment special</phrase>
+	<phrase weight="0.014705882352941176" count="1">zeus aloft</phrase>
+	<phrase weight="0.014705882352941176" count="1">arts care care</phrase>
+	<phrase weight="0.014705882352941176" count="1">pay derived artists respective arts</phrase>
+	<phrase weight="0.014705882352941176" count="1">musician art</phrase>
+	<phrase weight="0.014705882352941176" count="1">gods night likeness</phrase>
+	<phrase weight="0.014705882352941176" count="1">supplementary art</phrase>
+  </topic>
+  <topic id="33" alpha="0.12272593625033315" totalTokens="648" titles="body, fair, health, disease, soul, bodies, habits, judges, corruption, ">
+	<word weight="0.09567901234567901" count="62">body</word>
+	<word weight="0.040123456790123455" count="26">fair</word>
+	<word weight="0.038580246913580245" count="25">health</word>
+	<word weight="0.035493827160493825" count="23">disease</word>
+	<word weight="0.035493827160493825" count="23">soul</word>
+	<word weight="0.018518518518518517" count="12">bodies</word>
+	<word weight="0.016975308641975308" count="11">habits</word>
+	<word weight="0.016975308641975308" count="11">judges</word>
+	<word weight="0.016975308641975308" count="11">corruption</word>
+	<phrase weight="0.01282051282051282" count="1">open ran</phrase>
+	<phrase weight="0.01282051282051282" count="1">cure gradual</phrase>
+	<phrase weight="0.01282051282051282" count="1">disease body</phrase>
+	<phrase weight="0.01282051282051282" count="1">health disease</phrase>
+	<phrase weight="0.01282051282051282" count="1">mimetic art</phrase>
+	<phrase weight="0.01282051282051282" count="1">flower blooms</phrase>
+	<phrase weight="0.01282051282051282" count="1">health healthy disease</phrase>
+	<phrase weight="0.01282051282051282" count="1">cure body</phrase>
+	<phrase weight="0.01282051282051282" count="1">slice neighbours land</phrase>
+	<phrase weight="0.01282051282051282" count="1">constant torment departed usual</phrase>
+  </topic>
+  <topic id="34" alpha="0.2344594477082006" totalTokens="1024" titles="man, money, wealth, class, advantage, property, dear, honour, force, ">
+	<word weight="0.083984375" count="86">man</word>
+	<word weight="0.0634765625" count="65">money</word>
+	<word weight="0.03125" count="32">wealth</word>
+	<word weight="0.0263671875" count="27">class</word>
+	<word weight="0.0205078125" count="21">advantage</word>
+	<word weight="0.01953125" count="20">property</word>
+	<word weight="0.017578125" count="18">dear</word>
+	<word weight="0.0166015625" count="17">honour</word>
+	<word weight="0.0166015625" count="17">force</word>
+	<phrase weight="0.021505376344086023" count="2">wealth poverty</phrase>
+	<phrase weight="0.021505376344086023" count="2">making money</phrase>
+	<phrase weight="0.021505376344086023" count="2">money honour</phrase>
+	<phrase weight="0.021505376344086023" count="2">class goods</phrase>
+	<phrase weight="0.010752688172043012" count="1">ordinary dealings man man</phrase>
+	<phrase weight="0.010752688172043012" count="1">haranguing permit</phrase>
+	<phrase weight="0.010752688172043012" count="1">days spending money man</phrase>
+	<phrase weight="0.010752688172043012" count="1">man profited</phrase>
+	<phrase weight="0.010752688172043012" count="1">dear man</phrase>
+	<phrase weight="0.010752688172043012" count="1">buy sell market</phrase>
+  </topic>
+  <topic id="35" alpha="0.1787039714390853" totalTokens="877" titles="hear, lie, persons, necessity, heard, imagine, told, rest, words, ">
+	<word weight="0.04561003420752566" count="40">hear</word>
+	<word weight="0.03876852907639681" count="34">lie</word>
+	<word weight="0.03534777651083238" count="31">persons</word>
+	<word weight="0.03078677309007982" count="27">necessity</word>
+	<word weight="0.02508551881413911" count="22">heard</word>
+	<word weight="0.020524515393386546" count="18">imagine</word>
+	<word weight="0.020524515393386546" count="18">told</word>
+	<word weight="0.020524515393386546" count="18">rest</word>
+	<word weight="0.020524515393386546" count="18">words</word>
+	<phrase weight="0.028985507246376812" count="2">ears hear</phrase>
+	<phrase weight="0.028985507246376812" count="2">hear voice</phrase>
+	<phrase weight="0.014492753623188406" count="1">side fancy</phrase>
+	<phrase weight="0.014492753623188406" count="1">lie useless</phrase>
+	<phrase weight="0.014492753623188406" count="1">words words set</phrase>
+	<phrase weight="0.014492753623188406" count="1">panic stricken words</phrase>
+	<phrase weight="0.014492753623188406" count="1">eye clever</phrase>
+	<phrase weight="0.014492753623188406" count="1">told uranus</phrase>
+	<phrase weight="0.014492753623188406" count="1">set declaring</phrase>
+	<phrase weight="0.014492753623188406" count="1">lie afraid</phrase>
+  </topic>
+  <topic id="36" alpha="0.07328656040060602" totalTokens="413" titles="time, left, motion, mode, single, rest, person, description, long, ">
+	<word weight="0.07263922518159806" count="30">time</word>
+	<word weight="0.043583535108958835" count="18">left</word>
+	<word weight="0.031476997578692496" count="13">motion</word>
+	<word weight="0.021791767554479417" count="9">mode</word>
+	<word weight="0.021791767554479417" count="9">single</word>
+	<word weight="0.021791767554479417" count="9">rest</word>
+	<word weight="0.014527845036319613" count="6">person</word>
+	<word weight="0.014527845036319613" count="6">description</word>
+	<word weight="0.014527845036319613" count="6">long</word>
+	<phrase weight="0.03125" count="1">avoid chronological difficulties</phrase>
+	<phrase weight="0.03125" count="1">bow time</phrase>
+	<phrase weight="0.03125" count="1">coat decked bridegroom</phrase>
+	<phrase weight="0.03125" count="1">respect standing</phrase>
+	<phrase weight="0.03125" count="1">left scolding</phrase>
+	<phrase weight="0.03125" count="1">time time</phrase>
+	<phrase weight="0.03125" count="1">critias birth</phrase>
+	<phrase weight="0.03125" count="1">house coat</phrase>
+	<phrase weight="0.03125" count="1">struck wasting time</phrase>
+	<phrase weight="0.03125" count="1">overthrower standing</phrase>
+  </topic>
+  <topic id="37" alpha="0.1586234177869303" totalTokens="751" titles="great, place, small, enquiry, found, educated, inferior, purpose, larger, ">
+	<word weight="0.07989347536617843" count="60">great</word>
+	<word weight="0.045272969374167776" count="34">place</word>
+	<word weight="0.043941411451398134" count="33">small</word>
+	<word weight="0.03062583222370173" count="23">enquiry</word>
+	<word weight="0.023968042609853527" count="18">found</word>
+	<word weight="0.022636484687083888" count="17">educated</word>
+	<word weight="0.018641810918774968" count="14">inferior</word>
+	<word weight="0.017310252996005325" count="13">purpose</word>
+	<word weight="0.015978695073235686" count="12">larger</word>
+	<phrase weight="0.041666666666666664" count="3">great small</phrase>
+	<phrase weight="0.013888888888888888" count="1">small great</phrase>
+	<phrase weight="0.013888888888888888" count="1">great crimes</phrase>
+	<phrase weight="0.013888888888888888" count="1">officers offspring</phrase>
+	<phrase weight="0.013888888888888888" count="1">director director found</phrase>
+	<phrase weight="0.013888888888888888" count="1">rejoin numbering measuring</phrase>
+	<phrase weight="0.013888888888888888" count="1">small fact</phrase>
+	<phrase weight="0.013888888888888888" count="1">purpose owner</phrase>
+	<phrase weight="0.013888888888888888" count="1">sizes combinations slighting unimportant</phrase>
+	<phrase weight="0.013888888888888888" count="1">attempt represent</phrase>
+  </topic>
+  <topic id="38" alpha="0.2183256894007213" totalTokens="931" titles="manner, music, gymnastic, care, perfect, guardian, begin, long, full, ">
+	<word weight="0.06015037593984962" count="56">manner</word>
+	<word weight="0.05477980665950591" count="51">music</word>
+	<word weight="0.03544575725026853" count="33">gymnastic</word>
+	<word weight="0.034371643394199784" count="32">care</word>
+	<word weight="0.03007518796992481" count="28">perfect</word>
+	<word weight="0.03007518796992481" count="28">guardian</word>
+	<word weight="0.023630504833512353" count="22">begin</word>
+	<word weight="0.021482277121374866" count="20">long</word>
+	<word weight="0.02040816326530612" count="19">full</word>
+	<phrase weight="0.1388888888888889" count="10">music gymnastic</phrase>
+	<phrase weight="0.041666666666666664" count="3">gymnastic exercises</phrase>
+	<phrase weight="0.013888888888888888" count="1">nurture citizens</phrase>
+	<phrase weight="0.013888888888888888" count="1">long beset</phrase>
+	<phrase weight="0.013888888888888888" count="1">attain fall</phrase>
+	<phrase weight="0.013888888888888888" count="1">require unite</phrase>
+	<phrase weight="0.013888888888888888" count="1">hunting keeping</phrase>
+	<phrase weight="0.013888888888888888" count="1">long short</phrase>
+	<phrase weight="0.013888888888888888" count="1">fall short</phrase>
+	<phrase weight="0.013888888888888888" count="1">innovation full</phrase>
+  </topic>
+  <topic id="39" alpha="0.10166869420520608" totalTokens="485" titles="maker, real, bed, true, painter, physician, existence, view, mistake, ">
+	<word weight="0.04742268041237113" count="23">maker</word>
+	<word weight="0.04742268041237113" count="23">real</word>
+	<word weight="0.03917525773195876" count="19">bed</word>
+	<word weight="0.03711340206185567" count="18">true</word>
+	<word weight="0.03505154639175258" count="17">painter</word>
+	<word weight="0.03505154639175258" count="17">physician</word>
+	<word weight="0.030927835051546393" count="15">existence</word>
+	<word weight="0.026804123711340205" count="13">view</word>
+	<word weight="0.02268041237113402" count="11">mistake</word>
+	<phrase weight="0.038461538461538464" count="2">physician carpenter</phrase>
+	<phrase weight="0.019230769230769232" count="1">persisting degenerates</phrase>
+	<phrase weight="0.019230769230769232" count="1">healer sick maker</phrase>
+	<phrase weight="0.019230769230769232" count="1">mistake true physician arithmetician</phrase>
+	<phrase weight="0.019230769230769232" count="1">work carpenter work painter beds</phrase>
+	<phrase weight="0.019230769230769232" count="1">arts painter</phrase>
+	<phrase weight="0.019230769230769232" count="1">partner harp player</phrase>
+	<phrase weight="0.019230769230769232" count="1">flute player flute maker</phrase>
+	<phrase weight="0.019230769230769232" count="1">carpenter distance</phrase>
+	<phrase weight="0.019230769230769232" count="1">real unable</phrase>
+  </topic>
+</topics>

@@ -1,0 +1,443 @@
+<?xml version='1.0' ?>
+<topicModel>
+  <topic id='0' alpha='0.09234814116525178' totalTokens='606'>
+	<word rank='1'>net</word>
+	<word rank='2'>sense</word>
+	<word rank='3'>molly</word>
+	<word rank='4'>moderns</word>
+	<word rank='5'>library</word>
+	<word rank='6'>elevator</word>
+	<word rank='7'>minutes</word>
+	<word rank='8'>flipped</word>
+	<word rank='9'>building</word>
+  </topic>
+  <topic id='1' alpha='0.5382617787284988' totalTokens='1883'>
+	<word rank='1'>face</word>
+	<word rank='2'>light</word>
+	<word rank='3'>wall</word>
+	<word rank='4'>voice</word>
+	<word rank='5'>blood</word>
+	<word rank='6'>leg</word>
+	<word rank='7'>wore</word>
+	<word rank='8'>left</word>
+	<word rank='9'>pain</word>
+  </topic>
+  <topic id='2' alpha='0.055614369061137425' totalTokens='333'>
+	<word rank='1'>nest</word>
+	<word rank='2'>wasp</word>
+	<word rank='3'>fuel</word>
+	<word rank='4'>marlene</word>
+	<word rank='5'>lap</word>
+	<word rank='6'>kill</word>
+	<word rank='7'>mind</word>
+	<word rank='8'>wasps</word>
+	<word rank='9'>equivalent</word>
+  </topic>
+  <topic id='3' alpha='0.08073981511636892' totalTokens='519'>
+	<word rank='1'>ratz</word>
+	<word rank='2'>wage</word>
+	<word rank='3'>zone</word>
+	<word rank='4'>bar</word>
+	<word rank='5'>artiste</word>
+	<word rank='6'>pink</word>
+	<word rank='7'>bartender</word>
+	<word rank='8'>lonny</word>
+	<word rank='9'>owe</word>
+  </topic>
+  <topic id='4' alpha='0.38895587043001106' totalTokens='1236'>
+	<word rank='1'>made</word>
+	<word rank='2'>hand</word>
+	<word rank='3'>sound</word>
+	<word rank='4'>girl</word>
+	<word rank='5'>glass</word>
+	<word rank='6'>empty</word>
+	<word rank='7'>felt</word>
+	<word rank='8'>dozen</word>
+	<word rank='9'>molly</word>
+  </topic>
+  <topic id='5' alpha='0.6693221686918379' totalTokens='2436'>
+	<word rank='1'>case</word>
+	<word rank='2'>white</word>
+	<word rank='3'>left</word>
+	<word rank='4'>man</word>
+	<word rank='5'>pocket</word>
+	<word rank='6'>door</word>
+	<word rank='7'>plastic</word>
+	<word rank='8'>place</word>
+	<word rank='9'>front</word>
+  </topic>
+  <topic id='6' alpha='0.11522043540577258' totalTokens='454'>
+	<word rank='1'>blue</word>
+	<word rank='2'>neon</word>
+	<word rank='3'>blurred</word>
+	<word rank='4'>past</word>
+	<word rank='5'>space</word>
+	<word rank='6'>eye</word>
+	<word rank='7'>mute</word>
+	<word rank='8'>sphere</word>
+	<word rank='9'>images</word>
+  </topic>
+  <topic id='7' alpha='0.05988147685649016' totalTokens='399'>
+	<word rank='1'>cath</word>
+	<word rank='2'>bruce</word>
+	<word rank='3'>numb</word>
+	<word rank='4'>lupus</word>
+	<word rank='5'>freeside</word>
+	<word rank='6'>watched</word>
+	<word rank='7'>system</word>
+	<word rank='8'>cubicle</word>
+	<word rank='9'>pushed</word>
+  </topic>
+  <topic id='8' alpha='0.11310424142094626' totalTokens='595'>
+	<word rank='1'>villa</word>
+	<word rank='2'>gravity</word>
+	<word rank='3'>spindle</word>
+	<word rank='4'>straylight</word>
+	<word rank='5'>freeside</word>
+	<word rank='6'>key</word>
+	<word rank='7'>end</word>
+	<word rank='8'>hull</word>
+	<word rank='9'>sight</word>
+  </topic>
+  <topic id='9' alpha='0.09414144565651471' totalTokens='557'>
+	<word rank='1'>finn</word>
+	<word rank='2'>street</word>
+	<word rank='3'>terzibashjian</word>
+	<word rank='4'>bazaar</word>
+	<word rank='5'>sort</word>
+	<word rank='6'>armenian</word>
+	<word rank='7'>mercedes</word>
+	<word rank='8'>car</word>
+	<word rank='9'>tweed</word>
+  </topic>
+  <topic id='10' alpha='0.333730059282254' totalTokens='1248'>
+	<word rank='1'>wintermute</word>
+	<word rank='2'>straylight</word>
+	<word rank='3'>dead</word>
+	<word rank='4'>real</word>
+	<word rank='5'>told</word>
+	<word rank='6'>killed</word>
+	<word rank='7'>figure</word>
+	<word rank='8'>years</word>
+	<word rank='9'>death</word>
+  </topic>
+  <topic id='11' alpha='0.055132925932504885' totalTokens='466'>
+	<word rank='1'>deane</word>
+	<word rank='2'>julie</word>
+	<word rank='3'>gun</word>
+	<word rank='4'>desk</word>
+	<word rank='5'>office</word>
+	<word rank='6'>chair</word>
+	<word rank='7'>ginger</word>
+	<word rank='8'>son</word>
+	<word rank='9'>striped</word>
+  </topic>
+  <topic id='12' alpha='0.07593132130779957' totalTokens='457'>
+	<word rank='1'>smith</word>
+	<word rank='2'>finn</word>
+	<word rank='3'>ashpool</word>
+	<word rank='4'>tessier</word>
+	<word rank='5'>jimmy</word>
+	<word rank='6'>family</word>
+	<word rank='7'>ninja</word>
+	<word rank='8'>orbital</word>
+	<word rank='9'>head</word>
+  </topic>
+  <topic id='13' alpha='0.3060660165194253' totalTokens='1108'>
+	<word rank='1'>floor</word>
+	<word rank='2'>door</word>
+	<word rank='3'>stepped</word>
+	<word rank='4'>open</word>
+	<word rank='5'>lay</word>
+	<word rank='6'>yellow</word>
+	<word rank='7'>image</word>
+	<word rank='8'>struck</word>
+	<word rank='9'>beneath</word>
+  </topic>
+  <topic id='14' alpha='0.15904883759435193' totalTokens='1359'>
+	<word rank='1'>maelcum</word>
+	<word rank='2'>mon</word>
+	<word rank='3'>case</word>
+	<word rank='4'>garvey</word>
+	<word rank='5'>hatch</word>
+	<word rank='6'>helmet</word>
+	<word rank='7'>zionite</word>
+	<word rank='8'>monitor</word>
+	<word rank='9'>wi</word>
+  </topic>
+  <topic id='15' alpha='0.5287582097696151' totalTokens='1989'>
+	<word rank='1'>hand</word>
+	<word rank='2'>hands</word>
+	<word rank='3'>riviera</word>
+	<word rank='4'>black</word>
+	<word rank='5'>blue</word>
+	<word rank='6'>dark</word>
+	<word rank='7'>white</word>
+	<word rank='8'>bed</word>
+	<word rank='9'>head</word>
+  </topic>
+  <topic id='16' alpha='0.07804468966773194' totalTokens='373'>
+	<word rank='1'>ai</word>
+	<word rank='2'>al</word>
+	<word rank='3'>berne</word>
+	<word rank='4'>story</word>
+	<word rank='5'>turing</word>
+	<word rank='6'>tessier</word>
+	<word rank='7'>mainframe</word>
+	<word rank='8'>swiss</word>
+	<word rank='9'>authority</word>
+  </topic>
+  <topic id='17' alpha='0.3843768323900565' totalTokens='1551'>
+	<word rank='1'>case</word>
+	<word rank='2'>armitage</word>
+	<word rank='3'>molly</word>
+	<word rank='4'>asked</word>
+	<word rank='5'>riviera</word>
+	<word rank='6'>forward</word>
+	<word rank='7'>smiled</word>
+	<word rank='8'>small</word>
+	<word rank='9'>crossed</word>
+  </topic>
+  <topic id='18' alpha='0.10955799254561087' totalTokens='521'>
+	<word rank='1'>chip</word>
+	<word rank='2'>shuriken</word>
+	<word rank='3'>temperfoam</word>
+	<word rank='4'>display</word>
+	<word rank='5'>star</word>
+	<word rank='6'>quickly</word>
+	<word rank='7'>stars</word>
+	<word rank='8'>year</word>
+	<word rank='9'>credit</word>
+  </topic>
+  <topic id='19' alpha='0.5824654576015578' totalTokens='1902'>
+	<word rank='1'>eyes</word>
+	<word rank='2'>back</word>
+	<word rank='3'>dark</word>
+	<word rank='4'>looked</word>
+	<word rank='5'>found</word>
+	<word rank='6'>high</word>
+	<word rank='7'>boy</word>
+	<word rank='8'>stood</word>
+	<word rank='9'>hair</word>
+  </topic>
+  <topic id='20' alpha='0.09174232652233956' totalTokens='498'>
+	<word rank='1'>cheap</word>
+	<word rank='2'>hotel</word>
+	<word rank='3'>number</word>
+	<word rank='4'>black</word>
+	<word rank='5'>coffin</word>
+	<word rank='6'>hundred</word>
+	<word rank='7'>ten</word>
+	<word rank='8'>elevator</word>
+	<word rank='9'>coffins</word>
+  </topic>
+  <topic id='21' alpha='0.1444431789300765' totalTokens='466'>
+	<word rank='1'>remembered</word>
+	<word rank='2'>flesh</word>
+	<word rank='3'>small</word>
+	<word rank='4'>body</word>
+	<word rank='5'>huh</word>
+	<word rank='6'>angles</word>
+	<word rank='7'>paris</word>
+	<word rank='8'>tourists</word>
+	<word rank='9'>difficult</word>
+  </topic>
+  <topic id='22' alpha='0.07058554272304497' totalTokens='499'>
+	<word rank='1'>corto</word>
+	<word rank='2'>screaming</word>
+	<word rank='3'>fist</word>
+	<word rank='4'>colonel</word>
+	<word rank='5'>history</word>
+	<word rank='6'>war</word>
+	<word rank='7'>aide</word>
+	<word rank='8'>tears</word>
+	<word rank='9'>man</word>
+  </topic>
+  <topic id='23' alpha='0.10638282413510725' totalTokens='565'>
+	<word rank='1'>sand</word>
+	<word rank='2'>beach</word>
+	<word rank='3'>knew</word>
+	<word rank='4'>arms</word>
+	<word rank='5'>silver</word>
+	<word rank='6'>surf</word>
+	<word rank='7'>time</word>
+	<word rank='8'>wind</word>
+	<word rank='9'>bunker</word>
+  </topic>
+  <topic id='24' alpha='0.08550266563761869' totalTokens='484'>
+	<word rank='1'>aerol</word>
+	<word rank='2'>zion</word>
+	<word rank='3'>babylon</word>
+	<word rank='4'>razor</word>
+	<word rank='5'>trodes</word>
+	<word rank='6'>dub</word>
+	<word rank='7'>founder</word>
+	<word rank='8'>gravity</word>
+	<word rank='9'>angeles</word>
+  </topic>
+  <topic id='25' alpha='0.07728636553010655' totalTokens='367'>
+	<word rank='1'>passed</word>
+	<word rank='2'>sign</word>
+	<word rank='3'>atlanta</word>
+	<word rank='4'>crab</word>
+	<word rank='5'>million</word>
+	<word rank='6'>crystal</word>
+	<word rank='7'>king</word>
+	<word rank='8'>manhattan</word>
+	<word rank='9'>pressed</word>
+  </topic>
+  <topic id='26' alpha='0.09658846382214839' totalTokens='409'>
+	<word rank='1'>place</word>
+	<word rank='2'>money</word>
+	<word rank='3'>sprawl</word>
+	<word rank='4'>dreams</word>
+	<word rank='5'>crowded</word>
+	<word rank='6'>bought</word>
+	<word rank='7'>ali</word>
+	<word rank='8'>knuckles</word>
+	<word rank='9'>animal</word>
+  </topic>
+  <topic id='27' alpha='0.17588027829362063' totalTokens='570'>
+	<word rank='1'>things</word>
+	<word rank='2'>easy</word>
+	<word rank='3'>guy</word>
+	<word rank='4'>kill</word>
+	<word rank='5'>big</word>
+	<word rank='6'>wanted</word>
+	<word rank='7'>black</word>
+	<word rank='8'>make</word>
+	<word rank='9'>muscle</word>
+  </topic>
+  <topic id='28' alpha='0.07203391324835107' totalTokens='441'>
+	<word rank='1'>yonderboy</word>
+	<word rank='2'>modern</word>
+	<word rank='3'>moderns</word>
+	<word rank='4'>suit</word>
+	<word rank='5'>met</word>
+	<word rank='6'>polycarbon</word>
+	<word rank='7'>panther</word>
+	<word rank='8'>hosaka</word>
+	<word rank='9'>pale</word>
+  </topic>
+  <topic id='29' alpha='0.23364647977882677' totalTokens='876'>
+	<word rank='1'>molly</word>
+	<word rank='2'>black</word>
+	<word rank='3'>room</word>
+	<word rank='4'>smooth</word>
+	<word rank='5'>leather</word>
+	<word rank='6'>christ</word>
+	<word rank='7'>things</word>
+	<word rank='8'>huge</word>
+	<word rank='9'>light</word>
+  </topic>
+  <topic id='30' alpha='0.07069396643955986' totalTokens='353'>
+	<word rank='1'>turned</word>
+	<word rank='2'>shuttle</word>
+	<word rank='3'>freeside</word>
+	<word rank='4'>end</word>
+	<word rank='5'>shop</word>
+	<word rank='6'>flight</word>
+	<word rank='7'>jal</word>
+	<word rank='8'>pauley</word>
+	<word rank='9'>laugh</word>
+  </topic>
+  <topic id='31' alpha='0.15610960259195025' totalTokens='516'>
+	<word rank='1'>watched</word>
+	<word rank='2'>simstim</word>
+	<word rank='3'>room</word>
+	<word rank='4'>sendai</word>
+	<word rank='5'>form</word>
+	<word rank='6'>pink</word>
+	<word rank='7'>loft</word>
+	<word rank='8'>leaving</word>
+	<word rank='9'>grown</word>
+  </topic>
+  <topic id='32' alpha='0.11981157622244823' totalTokens='844'>
+	<word rank='1'>jane</word>
+	<word rank='2'>molly</word>
+	<word rank='3'>hideo</word>
+	<word rank='4'>peter</word>
+	<word rank='5'>pool</word>
+	<word rank='6'>riviera</word>
+	<word rank='7'>arrow</word>
+	<word rank='8'>maelcum</word>
+	<word rank='9'>ninja</word>
+  </topic>
+  <topic id='33' alpha='0.10764318875421211' totalTokens='434'>
+	<word rank='1'>half</word>
+	<word rank='2'>air</word>
+	<word rank='3'>stained</word>
+	<word rank='4'>cobra</word>
+	<word rank='5'>knives</word>
+	<word rank='6'>deal</word>
+	<word rank='7'>steel</word>
+	<word rank='8'>fear</word>
+	<word rank='9'>counting</word>
+  </topic>
+  <topic id='34' alpha='0.31789373839207574' totalTokens='1085'>
+	<word rank='1'>make</word>
+	<word rank='2'>chiba</word>
+	<word rank='3'>real</word>
+	<word rank='4'>knew</word>
+	<word rank='5'>stuff</word>
+	<word rank='6'>gotta</word>
+	<word rank='7'>sprawl</word>
+	<word rank='8'>sat</word>
+	<word rank='9'>cowboy</word>
+  </topic>
+  <topic id='35' alpha='0.2299636483352748' totalTokens='928'>
+	<word rank='1'>side</word>
+	<word rank='2'>walls</word>
+	<word rank='3'>narrow</word>
+	<word rank='4'>small</word>
+	<word rank='5'>glass</word>
+	<word rank='6'>thumb</word>
+	<word rank='7'>wide</word>
+	<word rank='8'>square</word>
+	<word rank='9'>paper</word>
+  </topic>
+  <topic id='36' alpha='1.0142708459549283' totalTokens='3473'>
+	<word rank='1'>case</word>
+	<word rank='2'>back</word>
+	<word rank='3'>man</word>
+	<word rank='4'>time</word>
+	<word rank='5'>good</word>
+	<word rank='6'>shit</word>
+	<word rank='7'>looked</word>
+	<word rank='8'>head</word>
+	<word rank='9'>cut</word>
+  </topic>
+  <topic id='37' alpha='0.06889024693368925' totalTokens='535'>
+	<word rank='1'>pierre</word>
+	<word rank='2'>roland</word>
+	<word rank='3'>michele</word>
+	<word rank='4'>names</word>
+	<word rank='5'>desiderata</word>
+	<word rank='6'>verne</word>
+	<word rank='7'>jules</word>
+	<word rank='8'>acheson</word>
+	<word rank='9'>lado</word>
+  </topic>
+  <topic id='38' alpha='0.24729388864639537' totalTokens='1301'>
+	<word rank='1'>ice</word>
+	<word rank='2'>flatline</word>
+	<word rank='3'>construct</word>
+	<word rank='4'>kuang</word>
+	<word rank='5'>program</word>
+	<word rank='6'>deck</word>
+	<word rank='7'>virus</word>
+	<word rank='8'>dixie</word>
+	<word rank='9'>hosaka</word>
+  </topic>
+  <topic id='39' alpha='0.2038801232308588' totalTokens='1010'>
+	<word rank='1'>night</word>
+	<word rank='2'>city</word>
+	<word rank='3'>linda</word>
+	<word rank='4'>ninsei</word>
+	<word rank='5'>sky</word>
+	<word rank='6'>black</word>
+	<word rank='7'>arcade</word>
+	<word rank='8'>street</word>
+	<word rank='9'>chiba</word>
+  </topic>
+</topicModel>

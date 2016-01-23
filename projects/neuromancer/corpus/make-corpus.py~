@@ -1,0 +1,4 @@
+
+with open('old-corpus.csv','r') as infile, open('corpus.csv','w') as newfile:
+    for line in infile.readlines():
+        print(line)

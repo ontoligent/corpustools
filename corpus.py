@@ -10,8 +10,9 @@ class Corpus:
     # here to document the model for static inspection
     db_schema = {
         'doc': ('doc_id INTEGER','doc_str TEXT'),
-        'word': ('word_id INTEGER','word_str TEXT','word_freq INTEGER'),
-        'docword': ('doc_id INTEGER','word_id INTEGER','word_count INTEGER')
+        'word': ('word_id INTEGER','word_str TEXT','word_freq INTEGER','word_stem TEXT'),
+        'docword': ('doc_id INTEGER','word_id INTEGER','word_count INTEGER'),
+        'bigram': ('word_str_1 TEXT','word_str_2 TEXT','bigram_score REAL')
     }
 
     def __init__(self,dbfile,dictfile=None):
@@ -79,10 +80,44 @@ class Corpus:
     def update_word_freqs(self):
         with self.dbi as db:
             rows = []
-            print("SELECT sum(word_count) as 'word_freq', word_id FROM docword GROUP BY word_id")
             for r in db.cur.execute("SELECT sum(word_count) as 'word_freq', word_id FROM docword GROUP BY word_id"):
                 rows.append(r)
             db.cur.executemany("UPDATE word SET word_freq = ? WHERE word_id = ?",rows)
+
+    def update_word_stems(self):
+        from nltk.stem import PorterStemmer
+        st = PorterStemmer()
+        with self.dbi as db:
+            rows = []
+            for r in db.cur.execute('SELECT word_id, word_str FROM word'):
+                stem = st.stem(r[1])
+                rows.append((stem,r[0]))
+            db.cur.executemany("UPDATE word SET word_stem = ? WHERE word_id = ?",rows)
+            
+    def pull_corpus_as_words(self):
+        self.doc_words = []
+        with self.dbi as db:
+            for r in db.cur.execute("SELECT doc_str FROM doc"):
+                for word in r[0].split():
+                    self.doc_words.append(word)
+    
+    def insert_bigrams(self,n=10):
+        from nltk.collocations import BigramCollocationFinder
+        from nltk.metrics import BigramAssocMeasures
+        from nltk.corpus import stopwords
+        rows = []
+        self.pull_corpus_as_words() 
+        stopset = set(stopwords.words('english'))
+        filter_stops = lambda w: len(w) < 3 or w in stopset
+        finder = BigramCollocationFinder.from_words(self.doc_words)
+        finder.apply_word_filter(filter_stops)
+        finder.apply_freq_filter(3)
+        bigram_measures = nltk.collocations.BigramAssocMeasures()
+        scored = finder.score_ngrams(bigram_measures.raw_freq)
+        for bigram, score in scored:
+            rows.append([bigram[0],bigram[1],score])
+        with self.dbi as db:
+            db.insert_values('bigram',rows)
 
     def pull_gensim_corpus(self):
         with self.dbi as db:
